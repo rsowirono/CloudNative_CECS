@@ -13,6 +13,7 @@ This section describes Managing your Digital Assets for Omni-Channel Delivery.
 In this exercise, we will we will be building the Cafe Supremo Site using Content and Experience Cloud. We will guide you trough some of the key capabilities CEC has to offer in the form of exercises. Before each exercise you will learn about the tasks that you will be doing and about the functionality you're about to use.
 
 **Lab Assumption**
+
 TBD
 
 **Oracle Content and Experience Cloud (CEC)** is a cloud-based content hub to drive omni-channel content management and accelerate experience delivery.
@@ -20,6 +21,7 @@ TBD
 ![](images/CECS-Unleash_the_Power-banner.png)
 
 Oracle Content and Experience Cloud enables:
+
 **Enable Content Collaboration**
 Easily collaborate on content internally and with external teams. Discuss, share, and annotate content with mobile access, anywhere and anytime
 
