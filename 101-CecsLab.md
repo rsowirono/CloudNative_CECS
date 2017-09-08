@@ -24,7 +24,7 @@ You need to upload the resources to your CEC environment:
 3. Upload or Drag and Drop the CafeSupremo.zip file into the “Templates” Folder
 
 ![](images/1.3.3.png)
-
+ 
 4. Unzip Images.zip into a local folder 
 5. Upload or Drag and Drop all images into Content->Digital Assets. This may take several minutes to import all images. 
 
