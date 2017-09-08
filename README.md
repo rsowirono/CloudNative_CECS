@@ -17,7 +17,7 @@ TBD
 
 **Oracle Content and Experience Cloud (CEC)** is a cloud-based content hub to drive omni-channel content management and accelerate experience delivery.
 
-![](images/CECS-Unleash the Power-banner.png)
+![](images/CECS-Unleash_the_Power-banner.png)
 
 Oracle Content and Experience Cloud enables:
 **Enable Content Collaboration**
