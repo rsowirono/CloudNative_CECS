@@ -12,15 +12,15 @@ created in previous exercise.
 
 ![](images/1.7.1.1.png)
 
-2. Select the **“Ad_2017”** content type you just created, select **“CafeSupremo Site Content”** collection and enter the content item information in [Appendix A](resource/AppendixA.md) and click **“OK”**.
+2. Select the **“Ad_2017”** content type you just created, select **“CafeSupremo Site Content”** collection and enter the content item information in [Appendix A](resources/AppendixA.md) and click **“OK”**.
 
 ![](images/1.7.1.2.png)
 
-3. Click Save to save the content item.
+3. Click **Save** to save the content item.
 
 ![](images/1.7.1.3.png)
 
-4. Repeat until you create at least 2 content items for each content type in [Appendix A](resource/AppendixA.md).
+4. Repeat until you create at least 2 content items for each content type in [Appendix A](resources/AppendixA.md).
 
 ![](images/1.7.1.4.png)
 
