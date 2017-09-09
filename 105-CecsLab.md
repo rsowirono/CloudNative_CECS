@@ -8,7 +8,7 @@ component you just imported.
 
 ### 1.5.1. Create a Site ###
 
-1. Navigate to ``Experience->Sites``, and click **“Create”**.
+1. Navigate to ``Experience -> Sites``, and click **“Create”**.
 
 ![](images/1.5.1.1.png)
 
@@ -21,14 +21,14 @@ then click **“Create”** to create the marketing site.
 
 ![](images/1.5.1.3.png)
 
-4. Verify a collection has been created for the site. Navigate to ``Content->Collection``, you will see the CafeSupremo Site Content has been
+4. Verify a collection has been created for the site. Navigate to ``Content -> Collection``, you will see the CafeSupremo Site Content has been
 created.
 
 ![](images/1.5.1.4.png)
 
 ### 1.5.2. Adding Assets to Collection ###
 
-1. Navigate to ``Content->Digital Assets``, click the **“Select All”** link, then click
+1. Navigate to ``Content -> Digital Assets``, click the **“Select All”** link, then click
 **“Add to Collection”** link.
 
 >Note: The “Select All” can only select items on

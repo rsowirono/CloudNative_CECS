@@ -14,7 +14,7 @@ content types used in this exercise:
 
 ### 1.6.1. Creating Content Type ###
 
-1. Navigate to ``Content->Content Items`` page, then click **“Manage Types”**.
+1. Navigate to ``Content -> Content Items`` page, then click **“Manage Types”**.
 
 ![](images/1.6.1.1.png)
 
@@ -119,7 +119,7 @@ The Author, Blog and Promo content types were pre-created before you import
 the content layout component, you need to configure the content layout for
 these 3 content items to render the content item properly.
 
-1. Navigate to `` Content->Content Items->Manage Types ``, and Click the Create
+1. Navigate to `` Content -> Content Items -> Manage Types ``, and Click the Create
 Item button.
 
 ![](images/1.6.2.1.png)
@@ -129,10 +129,6 @@ Item button.
 ![](images/1.6.2.2.png)
 
 3. Change Author content type layout style to:
-
-- Default: Author-Details
-- Details: Author-Details
-- Banner: Author-Banner
 
 | Content Layout |  |
 | ------------: | ------------- |
@@ -149,14 +145,7 @@ Item button.
 5. You need to repeat the steps above to change the Blog and Promo content type.
 
 - Blog
-  - Default: Blog-Default
-  - Details: Blog-Details
-  - Headline: Blog-Headline
-  - Author: Blog-Author
-  - Highlight: Blog-Highlight
-  - Overlay: Blog-Overlay
-  - Banner: Blog-Banner
-  
+
 | Content Layout |  |
 | ------------: | ------------- |
 | Layout Syles   | Content Items Default: `Blog-Default` |
@@ -170,8 +159,6 @@ Item button.
 ||Banner: `Blog-Banner`|  
 
 - Promo
-  - Default: Promo-Default
-  - Details: Promo-Details
 
 | Content Layout |  |
 | ------------: | ------------- |

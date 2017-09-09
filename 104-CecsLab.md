@@ -8,7 +8,7 @@ In this exercise, you will learn how to import the template and components for t
 
 ### 1.4.1. Import Template ###
 
-1. Navigate to ``Experience ->Templates``. Click ``Create->Import`` to import a template package.
+1. Navigate to ``Experience -> Templates``. Click ``Create -> Import`` to import a template package.
 
 ![](images/1.4.1.1.png)
 
@@ -24,7 +24,7 @@ In this exercise, you will learn how to import the template and components for t
 
 ### 1.4.2. Publish the Components ###
 
-1. Navigate to the ``Experience->Components`` page 
+1. Navigate to the ``Experience -> Components`` page 
 2. Select the components and click the **“Publish”** link. You may also select the component and right click to bring up the context menu to publish the component. 
 The menu bar will not appear until a selection is made. 
 

@@ -11,7 +11,7 @@
 You need to update the **Ad-Default** and **Ad-Highlight** components to use the content type you created in previous exercise, this is because the field id used in the content
 layout component is different from the one you created.
 
-1. Navigate to ``Experience->Components``.
+1. Navigate to ``Experience -> Components``.
 
 2. Click on the ``Ad-Default`` to open the component.
 
@@ -45,7 +45,7 @@ version in Ad-Default.
 
 ![](images/1.8.1.8.png)
 
-9. To verify the content layout component, navigate to ``Content->Content Items``, and select any Ad_2017 content items , then click ``Edit``.
+9. To verify the content layout component, navigate to ``Content -> Content Items``, and select any Ad_2017 content items , then click ``Edit``.
 
 ![](images/1.8.1.9.png)
 
@@ -56,7 +56,7 @@ Ad_Default content layout component. Change to Highlight layout to verify the Ad
 
 ### 1.8.2. Add/Change Content Item ###
 
-1. Navigate to ``Experience->Sites``, then select the **“CafeSupremo”** site you’ve created, and click the **“Edit”** link.
+1. Navigate to ``Experience -> Sites``, then select the **“CafeSupremo”** site you’ve created, and click the **“Edit”** link.
 
 ![](images/1.8.2.1.png)
 
@@ -112,7 +112,7 @@ will notice the content list placeholder for **Ad_2017** has change to 2 columns
 5. Scroll down and open the settings for **Content List Blog**. Ensure the **Order
 By is Newest First**.
 
-6. Navigate back to ``Content->Content Items`` to add a new **Blog content item**.
+6. Navigate back to ``Content -> Content Items`` to add a new **Blog content item**.
 
 7. Navigate back to the site editor and refresh the page, you will see the latest
 blog item is displayed on the page.
