@@ -59,8 +59,10 @@ In this exercise, you will learn how to import the template and components for t
 ![](images/1.4.2.2.png)
 
 >Note:
-o You need to repeat this step until all content layout components are published. 
-o If you have too many components and you only want to select the content layout components, you can use the components filter to display only the content layouts component. 
+
+>You need to repeat this step until all content layout components are published. 
+
+>If you have too many components and you only want to select the content layout components, you can use the components filter to display only the content layouts component. 
 
 ![](images/1.4.2.2.a.png)
 
