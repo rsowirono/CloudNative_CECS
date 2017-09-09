@@ -60,8 +60,10 @@ have a running number suffix.
 - **Highlight: Ad-Highlight**
 
 | Content Layout |  |
-| ------------- | ------------- |
-|Layout Styles|Default: `Ad-Default` Highlight: `Ad-Highlight` Tile View: `Ad-Default`|
+| ------------: | ------------- |
+|Layout Styles|Default: `Ad-Default`|
+||Highlight: `Ad-Highlight`|
+||Tile View: `Ad-Default`|
 
 
 7. If the **“Highlight”** style doesn’t exist, you need to add it by clicking the **“Add
@@ -133,8 +135,11 @@ Item button.
 - Banner: Author-Banner
 
 | Content Layout |  |
-| ------------- | ------------- |
-| Layout Syles   | Default: `Author-Details` Details: `Author-Details` Tile View: `Author-Details` Banner: `Author-Banner`| 
+| ------------: | ------------- |
+| Layout Syles   | Default: `Author-Details` |
+||Details: `Author-Details` |
+||Tile View: `Author-Details` |
+||Banner: `Author-Banner`| 
 
 
 4. Click Save to save the content type
@@ -153,25 +158,26 @@ Item button.
   - Banner: Blog-Banner
   
 | Content Layout |  |
-| ------------- | ------------- |
-| Layout Syles   | 
-- Content Items Default: `Blog-Default` 
-- Content List Default: `Blog-Default` 
-- Details: `Blog-Details` 
-- Headline: `Blog-Headline` 
-- Author: `Blog-Author` 
-- Highlight: `Blog-Highlight` 
-- Overlay: `Blog-Overlay` 
-- Tile View: `Blog-Default` 
-- Banner: `Blog-Banner`|  
+| ------------: | ------------- |
+| Layout Syles   | Content Items Default: `Blog-Default` |
+||Content List Default: `Blog-Default` |
+||Details: `Blog-Details` |
+||Headline: `Blog-Headline`| 
+||Author: `Blog-Author` |
+||Highlight: `Blog-Highlight` |
+||Overlay: `Blog-Overlay` |
+||Tile View: `Blog-Default`| 
+||Banner: `Blog-Banner`|  
 
 - Promo
   - Default: Promo-Default
   - Details: Promo-Details
 
 | Content Layout |  |
-| ------------- | ------------- |
-| Layout Syles   | - Content Items Default: `Promo-Default` - Details: `Promo-Details` - Tile View: `Promo-Details`|
+| ------------: | ------------- |
+| Layout Syles   | Content Items Default: `Promo-Default` |
+|| Details: `Promo-Details`|
+||Tile View: `Promo-Details`|
 
 # Lab Exercise: #
 
