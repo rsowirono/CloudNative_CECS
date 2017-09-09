@@ -35,6 +35,12 @@ appear.
 
 ![](images/1.6.1.4b.png) ![](images/1.6.1.4c.png)
 
+
+| Data Fields   | Name          | Id 			| Other Settings |
+| ------------- | ------------- | ------------- | -------------  |
+| Media  | Image Banner 1440x600  |ad_image_banner| Documents: Unselected |
+| Media  | Image Side 280x478  |ad_image_side|Documents: Unselected|
+
 [Content Type Name: Ad_2017](resource/ContentTypes.md)
 
 ![](images/1.6.1.4d.png)
