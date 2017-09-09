@@ -46,11 +46,9 @@ appear.
 |Text|TextPosition|ad_2017_textposition|Single text box: `Single-select menu` Options: `Left`/`Center`/`Right`|
 |Text|TextColor|ad_2017_textcolor|Single text box: `Single-select menu` Options: `Light`/`Dark`|
 
-| Content Layout | ------------- |
+| Content Layout |  |
 | ------------- | ------------- |
-|Layout Styles|Default: `Ad-Default`
-Highlight: `Ad-Highlight`
-Tile View: `Ad-Default`|
+|Layout Styles|Default: `Ad-Default` Highlight: `Ad-Highlight` Tile View: `Ad-Default`|
 
 ![](images/1.6.1.4d.png)
 
@@ -83,9 +81,7 @@ enter button on your keyboard.
 |Media|Image Avatar 312x312|author_image_avatar|Documents: `Unselected`|
 |Large Text|Bio|author_bio|Text area: `Rich-text editor`|
 
-### Content Layout ###
-
-| Content Layout | ------------- |
+| Content Layout |  |
 | ------------- | ------------- |
 | Layout Syles   | Default: `Author-Details` Details: `Author-Details` Tile View: `Author-Details` Banner: `Author-Banner`| 
 
@@ -105,17 +101,9 @@ enter button on your keyboard.
 
 ### Content Layout ###
 
-| Content Layout | ------------- |
+| Content Layout |  |
 | ------------- | ------------- |
-| Layout Syles   | Content Items Default: `Blog-Default`
-Content List Default: `Blog-Default`
-Details: `Blog-Details`
-Headline: `Blog-Headline`
-Author: `Blog-Author`
-Highlight: `Blog-Highlight`
-Overlay: `Blog-Overlay`
-Tile View: `Blog-Default`
-Banner: `Blog-Banner`|
+| Layout Syles   | Content Items Default: `Blog-Default` Content List Default: `Blog-Default` Details: `Blog-Details` Headline: `Blog-Headline` Author: `Blog-Author` Highlight: `Blog-Highlight` Overlay: `Blog-Overlay` Tile View: `Blog-Default` Banner: `Blog-Banner`|
 
 ### Content Type Name: Promo ###
 
@@ -131,7 +119,7 @@ Banner: `Blog-Banner`|
 
 ### Content Layout ###
 
-| Content Layout | ------------- |
+| Content Layout |  |
 | ------------- | ------------- |
 | Layout Syles   | Content Items Default: `Promo-Default` Details: `Promo-Details` Tile View: `Promo-Details`|
 
