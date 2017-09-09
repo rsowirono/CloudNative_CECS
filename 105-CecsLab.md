@@ -42,6 +42,7 @@ click the “Select All” and “Add to Collection” link again to add to coll
 
 
 ![](images/1.5.2.2.png)
+
 ![](images/1.5.2.2a.png)
 
 >Note: If you are prompted by the browser to kill the process, please click **“Wait”**.
