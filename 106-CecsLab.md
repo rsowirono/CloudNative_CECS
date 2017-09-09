@@ -101,10 +101,4 @@ ii. Details: Promo-Details
 
 # Lab Exercise: #
 
-## Lab 1.5: Creating a New Site ##
-
-[Prev Lab](105-CecsLab.md)
-
-## Lab 1.7: Creating and Publishing Content Item ##
-
-[Next Lab](107-CecsLab.md)
+[Lab 1.5: Creating a New Site](105-CecsLab.md) | [Lab 1.7: Creating and Publishing Content Item](107-CecsLab.md)

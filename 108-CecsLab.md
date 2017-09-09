@@ -91,8 +91,4 @@ preview mode.
 
 # Lab Exercise: #
 
-## Lab 1.7: Creating and Publishing Content Item ##
-
-[Prev Lab](107-CecsLab.md)
-
-[Back to CECS Cloud Test Drive Home](README.md)
+[Lab 1.7: Creating and Publishing Content Item](107-CecsLab.md) | [Back to CECS Cloud Test Drive Home](README.md)

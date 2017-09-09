@@ -38,10 +38,4 @@ created in previous exercise.
 
 # Lab Exercise: #
 
-## Lab 1.6: Creating Content Type ##
-
-[Prev Lab](106-CecsLab.md)
-
-## Lab 1.8: Using Content Item in Sites ##
-
-[Next Lab](108-CecsLab.md)
+[Lab 1.6: Creating Content Type](106-CecsLab.md) | [Lab 1.8: Using Content Item in Sites](108-CecsLab.md)

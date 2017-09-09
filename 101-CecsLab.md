@@ -58,7 +58,7 @@ In this exercise, you will learn how to import the template and components for t
 
 ![](images/1.4.2.2.png)
 
->Note:
+**_Note:_**
 
 >You need to repeat this step until all content layout components are published. 
 
@@ -76,11 +76,4 @@ In this exercise, you will learn how to import the template and components for t
 
 
 # Lab Exercise: #
-
-## Lab 2: TBD ##
-
-[Click Here.](102-CecsLab.md)
-
-or
-
-[Back to CECS Cloud Test Drive Home](README.md)
+[Lab 1.5. Creating a New Site](105-CecsLab.md) | [Back to CECS Cloud Test Drive Home](README.md)
