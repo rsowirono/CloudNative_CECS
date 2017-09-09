@@ -46,9 +46,6 @@ appear.
 |Text|TextPosition|ad_2017_textposition|Single text box: `Single-select menu` Options: `Left`/`Center`/`Right`|
 |Text|TextColor|ad_2017_textcolor|Single text box: `Single-select menu` Options: `Light`/`Dark`|
 
-| Content Layout |  |
-| ------------- | ------------- |
-|Layout Styles|Default: `Ad-Default` Highlight: `Ad-Highlight` Tile View: `Ad-Default`|
 
 ![](images/1.6.1.4d.png)
 
@@ -61,6 +58,11 @@ have a running number suffix.
 
 - **Default: Ad-Default**
 - **Highlight: Ad-Highlight**
+
+| Content Layout |  |
+| ------------- | ------------- |
+|Layout Styles|Default: `Ad-Default` Highlight: `Ad-Highlight` Tile View: `Ad-Default`|
+
 
 7. If the **“Highlight”** style doesn’t exist, you need to add it by clicking the **“Add
 Layout Style”** button, type the name of the style (Highlight) and press the
@@ -81,9 +83,6 @@ enter button on your keyboard.
 |Media|Image Avatar 312x312|author_image_avatar|Documents: `Unselected`|
 |Large Text|Bio|author_bio|Text area: `Rich-text editor`|
 
-| Content Layout |  |
-| ------------- | ------------- |
-| Layout Syles   | Default: `Author-Details` Details: `Author-Details` Tile View: `Author-Details` Banner: `Author-Banner`| 
 
 ### Content Type Name: Blog ###
 
@@ -99,12 +98,6 @@ enter button on your keyboard.
 |Text|TextPosition|blog_textposition|Single text box: `Single-select menu` Options: `Left` `Center` `Right`|
 |Text|TextColor|blog_textcolor|Single text box: `Single-select menu` Options: `Light` `Dark`|
 
-### Content Layout ###
-
-| Content Layout |  |
-| ------------- | ------------- |
-| Layout Syles   | Content Items Default: `Blog-Default` Content List Default: `Blog-Default` Details: `Blog-Details` Headline: `Blog-Headline` Author: `Blog-Author` Highlight: `Blog-Highlight` Overlay: `Blog-Overlay` Tile View: `Blog-Default` Banner: `Blog-Banner`|
-
 ### Content Type Name: Promo ###
 
 | Data Fields   | Name          | Id 			| Other Settings |
@@ -117,11 +110,6 @@ enter button on your keyboard.
 |Text|TextPosition|promo_textposition|Single text box: `Single-select menu` Options: `Left` `Center` `Right`|
 |Text|TextColor|promo_textcolor |Single text box: `Single-select menu` Options: Light Dark|
 
-### Content Layout ###
-
-| Content Layout |  |
-| ------------- | ------------- |
-| Layout Syles   | Content Items Default: `Promo-Default` Details: `Promo-Details` Tile View: `Promo-Details`|
 
 ### 1.6.2. Change Content Item Layout ###
 
@@ -144,6 +132,11 @@ Item button.
 - Details: Author-Details
 - Banner: Author-Banner
 
+| Content Layout |  |
+| ------------- | ------------- |
+| Layout Syles   | Default: `Author-Details` Details: `Author-Details` Tile View: `Author-Details` Banner: `Author-Banner`| 
+
+
 4. Click Save to save the content type
 
 ![](images/1.6.2.4.png)
@@ -158,10 +151,27 @@ Item button.
   - Highlight: Blog-Highlight
   - Overlay: Blog-Overlay
   - Banner: Blog-Banner
+  
+| Content Layout |  |
+| ------------- | ------------- |
+| Layout Syles   | 
+- Content Items Default: `Blog-Default` 
+- Content List Default: `Blog-Default` 
+- Details: `Blog-Details` 
+- Headline: `Blog-Headline` 
+- Author: `Blog-Author` 
+- Highlight: `Blog-Highlight` 
+- Overlay: `Blog-Overlay` 
+- Tile View: `Blog-Default` 
+- Banner: `Blog-Banner`|  
 
 - Promo
   - Default: Promo-Default
   - Details: Promo-Details
+
+| Content Layout |  |
+| ------------- | ------------- |
+| Layout Syles   | - Content Items Default: `Promo-Default` - Details: `Promo-Details` - Tile View: `Promo-Details`|
 
 # Lab Exercise: #
 
