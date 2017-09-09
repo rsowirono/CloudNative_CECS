@@ -19,7 +19,7 @@ TBD
 
 ![](images/CECS-Unleash_the_Power-banner.png)
 
-Oracle Content and Experience Cloud enables:
+### Oracle Content and Experience Cloud enables: ###
 
 **Enable Content Collaboration**
 
