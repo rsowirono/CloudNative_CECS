@@ -5,6 +5,7 @@
 ### Introduction ###
 
 You need to upload the resources to your CEC environment: 
+
 1. Login to CEC using the User ID assigned to you. 
 2. Create a folder in Content->Documents called “Templates” 
 3. Upload or Drag and Drop the CafeSupremo.zip file into the “Templates” Folder
