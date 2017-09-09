@@ -28,7 +28,7 @@ created.
 
 ### 1.5.2. Adding Assets to Collection ###
 
-1. Navigate to ``**Content->Digital Assets**``, click the **“Select All”** link, then click
+1. Navigate to ``Content->Digital Assets``, click the **“Select All”** link, then click
 **“Add to Collection”** link.
 
 >Note: The “Select All” can only select items on
@@ -44,14 +44,14 @@ click the “Select All” and “Add to Collection” link again to add to coll
 ![](images/1.5.2.2.png)
 ![](images/1.5.2.2a.png)
 
->Note: If you are prompted by the browser to kill the process, please click **“Wait”**
+>Note: If you are prompted by the browser to kill the process, please click **“Wait”**.
 
 ![](images/1.5.2.2b.png)
 
 ### 1.5.3. Publish Digital Assets ###
 
 1. Use the filter to select all assets in the **CafeSupremo Site Content**
-collection
+collection.
 
 2. Click **“Select All”** to select all assets, then click the **“Publish”** link to publish
 the assets.
