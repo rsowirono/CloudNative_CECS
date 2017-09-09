@@ -48,7 +48,7 @@ click the “Select All” and “Add to Collection” link again to add to coll
 
 ![](images/1.5.2.2b.png)
 
-### 5.3. Publish Digital Assets ###
+### 1.5.3. Publish Digital Assets ###
 
 1. Use the filter to select all assets in the **CafeSupremo Site Content**
 collection

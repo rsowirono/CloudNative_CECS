@@ -8,12 +8,12 @@
 
 ### 1.8.1. Update the Content Layout Components ###
 
-You need to update the Ad-Default and Ad-Highlight components to use the content type you created in previous exercise, this is because the field id used in the content
+You need to update the **Ad-Default** and **Ad-Highlight** components to use the content type you created in previous exercise, this is because the field id used in the content
 layout component is different from the one you created.
 
 1. Navigate to ``Experience->Components``.
 
-2. Click on the **Ad-Default** to open the component.
+2. Click on the ``Ad-Default`` to open the component.
 
 3. Go to assets folder and click on the download link the following files to your local machine.
 
@@ -21,10 +21,10 @@ a. render.js
 b. layout.html
 
 4. Use the text editor to open the ``render.js`` file and change the ID of the
-content item field to the ID of your Ad_2017content item.
+content item field to the ID of your ``Ad_2017content item``.
 
-5. Use the text editor to open the ``layout.html`` and change the id of the content
-item field to the id of your ``Ad_2017content item``.
+5. Use the text editor to open the ``layout.html`` and change the ID of the content
+item field to the ID of your ``Ad_2017content item``.
 
 6. Drag and Drop the ``render.js`` and ``layout.html`` you just edited to replace the
 version in Ad-Default.
@@ -88,7 +88,7 @@ blog item is displayed on the page.
 9. Click the preview button to open the site in another browser tab in
 preview mode.
 
-## Congratulations! You have successfully completed this Sites and Content lab.##
+## Congratulations! You have successfully completed this Sites and Content lab. ##
 
 # Lab Exercise: #
 

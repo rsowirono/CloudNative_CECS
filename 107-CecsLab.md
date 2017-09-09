@@ -6,7 +6,7 @@
 In this exercise, you will learn how to create content item using the content type
 created in previous exercise.
 
-### 7.1. Create Content Item ###
+### 1.7.1. Create Content Item ###
 
 1. Navigate to ``Content->Content Items``, and Click the ``Create Item`` button.
 
@@ -24,7 +24,7 @@ created in previous exercise.
 
 ![](images/1.7.1.4.png)
 
-### 7.2. Publish Content Items ###
+### 1.7.2. Publish Content Items ###
 
 1. Navigate to ``Content->Collections``, and click on the ``CafeSupremo Site Content`` collection.
 

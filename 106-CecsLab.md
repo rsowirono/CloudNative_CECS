@@ -43,8 +43,8 @@ appear.
 
 6. Select following content layouts for the layout styles.
 
->(Note: When you import the template, the name of the layout component will
-have a running number suffix.)
+>Note: When you import the template, the name of the layout component will
+have a running number suffix.
 
 **- Default: Ad-Default**
 **- Highlight: Ad-Highlight**
