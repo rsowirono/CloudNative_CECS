@@ -73,32 +73,52 @@ enter button on your keyboard.
 
 | Data Fields   | Name          | Id 			| Other Settings |
 | ------------- | ------------- | ------------- | -------------  |
-| Media  | Image Banner 1440x600  |ad_image_banner| Documents: `Unselected` |
-| Media  | Image Side 280x478  |ad_image_side|Documents: `Unselected`|
-|Text|CommerceURL|ad_commerceurl|**Custom validation:** Pattern validation: `Checked` Pattern: `URL`|
-|Text|TextPosition|ad_2017_textposition|Single text box: `Single-select menu` Options: `Left`/`Center`/`Right`|
-|Text|TextColor|ad_2017_textcolor|Single text box: `Single-select menu` Options: `Light`/`Dark`|
+|Media|Image Header 1440x540|author_image_header|Documents: `Unselected`|
+|Media|Image Avatar 312x312|author_image_avatar|Documents: `Unselected`|
+|Large Text|Bio|author_bio|Text area: `Rich-text editor`|
+
+### Content Layout ###
+| Layout Syles   | Default: `Author-Details` Details: `Author-Details` Tile View: `Author-Details` Banner: `Author-Banner`| 
 
 ### Content Type Name: Blog ###
 
 | Data Fields   | Name          | Id 			| Other Settings |
 | ------------- | ------------- | ------------- | -------------  |
-| Media  | Image Banner 1440x600  |ad_image_banner| Documents: `Unselected` |
-| Media  | Image Side 280x478  |ad_image_side|Documents: `Unselected`|
-|Text|CommerceURL|ad_commerceurl|**Custom validation:** Pattern validation: `Checked` Pattern: `URL`|
-|Text|TextPosition|ad_2017_textposition|Single text box: `Single-select menu` Options: `Left`/`Center`/`Right`|
-|Text|TextColor|ad_2017_textcolor|Single text box: `Single-select menu` Options: `Light`/`Dark`|
+|Reference|Author|blog_author|Any content type: `Author`|
+|Text|Category|blog_category|Single text box: `Single-select menu` Options: `HOW TO` `DRINKS` `PEOPLE` `RECIPES`|
+|Large Text|Content|blog_content|Text area: `Rich-text editor`|
+|Media|Image Header 1440x540|blog_image_header|Documents: `Unselected`|
+|Media|Image Ad 600x266|blog_image_ad|Documents: `Unselected`|
+|Media|Image Ad Small 307x150|blog_image_ad_small|Documents: `Unselected`|
+|Media|Image Thumbnail 400x400|blog_image_thumbnail|Documents: `Unselected`|
+|Text|TextPosition|blog_textposition|Single text box: `Single-select menu` Options: `Left` `Center` `Right`|
+|Text|TextColor|blog_textcolor|Single text box: `Single-select menu` Options: `Light` `Dark`|
+
+### Content Layout ###
+| Layout Syles   | Content Items Default: `Blog-Default`
+Content List Default: `Blog-Default`
+Details: `Blog-Details`
+Headline: `Blog-Headline`
+Author: `Blog-Author`
+Highlight: `Blog-Highlight`
+Overlay: `Blog-Overlay`
+Tile View: `Blog-Default`
+Banner: `Blog-Banner`|
 
 ### Content Type Name: Promo ###
 
 | Data Fields   | Name          | Id 			| Other Settings |
 | ------------- | ------------- | ------------- | -------------  |
-| Media  | Image Banner 1440x600  |ad_image_banner| Documents: `Unselected` |
-| Media  | Image Side 280x478  |ad_image_side|Documents: `Unselected`|
-|Text|CommerceURL|ad_commerceurl|**Custom validation:** Pattern validation: `Checked` Pattern: `URL`|
-|Text|TextPosition|ad_2017_textposition|Single text box: `Single-select menu` Options: `Left`/`Center`/`Right`|
-|Text|TextColor|ad_2017_textcolor|Single text box: `Single-select menu` Options: `Light`/`Dark`|
+|Media|Image Banner 1440x720|promo_image_banner|Documents: `Unselected`|
+|Media|Image Mobile Header 415x254|promo_image_mobile_header|Documents: `Unselected`|
+|Media|Image Mobile Thumbnail 115x85|promo_image_mobile_thumbnail|Documents: `Unselected`|
+|Large Text|Summary|promo_summary|Text area: `Rich-text editor`|
+|Large Text|Content|promo_content|Text area: `Rich-text editor`|
+|Text|TextPosition|promo_textposition|Single text box: `Single-select menu` Options: `Left` `Center` `Right`|
+|Text|TextColor|promo_textcolor |Single text box: `Single-select menu` Options: Light Dark|
 
+### Content Layout ###
+| Layout Syles   | Content Items Default: `Promo-Default` Details: `Promo-Details` Tile View: `Promo-Details`|
 
 ### 1.6.2. Change Content Item Layout ###
 
