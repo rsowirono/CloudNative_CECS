@@ -6,7 +6,7 @@
 
 In this exercise, you will learn how to import the template and components for the CafeSupremo Marketing site.
 
-### 1.4.1. Import Template ###
+### 1.4.1. Import Template ###
 
 1. Navigate to ``Experience ->Templates``. Click ``Create->Import`` to import a template package.
 

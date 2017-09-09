@@ -31,13 +31,13 @@ drop a data field into the Content Type Definition placeholder. Once you
 dropped a data field into the placeholder, the data field setting screen will
 appear.
 
-![](images/1.6.1.4a.png)
+![](images/1.6.1.4.png)
 
-![](images/1.6.1.4b.png)
+![](images/1.6.1.4b.png) ![](images/1.6.1.4c.png)
 
 [Content Type Name: Ad_2017](resource/ContentTypes.md)
 
-![](images/1.6.1.4c.png)
+![](images/1.6.1.4d.png)
 
 5. Click the **“Content Layout”** link.
 

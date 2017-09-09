@@ -4,7 +4,9 @@
 
 ### Introduction ###
 
-You need to upload the resources to your CEC environment: 
+You need to upload the resources to your CEC environment. You can upload resources using the Web Interface, illustrated below or make use of the Desktop Client. 
+
+### 1.3.1 Upload Resources ###
 
 1. Login to CEC using the User ID assigned to you. 
 2. Create a folder in ``Content->Documents`` called **“Templates”** 
