@@ -46,6 +46,12 @@ appear.
 |Text|TextPosition|ad_2017_textposition|Single text box: `Single-select menu` Options: `Left`/`Center`/`Right`|
 |Text|TextColor|ad_2017_textcolor|Single text box: `Single-select menu` Options: `Light`/`Dark`|
 
+| Content Layout   | 
+| ------------- | ------------- |
+|Layout Styles|Default: `Ad-Default`
+Highlight: `Ad-Highlight`
+Tile View: `Ad-Default`|
+
 ![](images/1.6.1.4d.png)
 
 5. Click the **“Content Layout”** link.
@@ -78,6 +84,8 @@ enter button on your keyboard.
 |Large Text|Bio|author_bio|Text area: `Rich-text editor`|
 
 ### Content Layout ###
+| Content Layout   | 
+| ------------- | ------------- |
 | Layout Syles   | Default: `Author-Details` Details: `Author-Details` Tile View: `Author-Details` Banner: `Author-Banner`| 
 
 ### Content Type Name: Blog ###
@@ -95,6 +103,8 @@ enter button on your keyboard.
 |Text|TextColor|blog_textcolor|Single text box: `Single-select menu` Options: `Light` `Dark`|
 
 ### Content Layout ###
+| Content Layout   | 
+| ------------- | ------------- |
 | Layout Syles   | Content Items Default: `Blog-Default`
 Content List Default: `Blog-Default`
 Details: `Blog-Details`
@@ -118,6 +128,8 @@ Banner: `Blog-Banner`|
 |Text|TextColor|promo_textcolor |Single text box: `Single-select menu` Options: Light Dark|
 
 ### Content Layout ###
+| Content Layout   | 
+| ------------- | ------------- |
 | Layout Syles   | Content Items Default: `Promo-Default` Details: `Promo-Details` Tile View: `Promo-Details`|
 
 ### 1.6.2. Change Content Item Layout ###
