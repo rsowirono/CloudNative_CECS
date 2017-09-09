@@ -12,7 +12,7 @@ component you just imported.
 
 ![](images/1.5.1.1.png)
 
-2. Select CafeSupremo template, and the name of the site **“CafeSupremo”** ,
+2. Select `CafeSupremo` template, and the name of the site **“CafeSupremo”** ,
 then click **“Create”** to create the marketing site.
 
 ![](images/1.5.1.2.png)
@@ -31,21 +31,21 @@ created.
 1. Navigate to ``Content -> Digital Assets``, click the **“Select All”** link, then click
 **“Add to Collection”** link.
 
->Note: The “Select All” can only select items on
+>**Note**: The **“Select All”** can only select items on
 current page, you need to scroll down to the bottom of the page, and go to
 click the next page button or the number of the page then
-click the “Select All” and “Add to Collection” link again to add to collection
+click the **“Select All”** and **“Add to Collection”** link again to add to collection
 
 ![](images/1.5.2.1.png)
 
-2. Select **“CafeSupremo Site Content”** and click the OK button.
+2. Select **“CafeSupremo Site Content”** and click the **OK** button.
 
 
 ![](images/1.5.2.2.png)
 
 ![](images/1.5.2.2a.png)
 
->Note: If you are prompted by the browser to kill the process, please click **“Wait”**.
+>**Note:** If you are prompted by the browser to `kill the process`, please click **“Wait”**.
 
 ![](images/1.5.2.2b.png)
 
@@ -59,7 +59,7 @@ the assets.
 
 ![](images/1.5.3.2.png)
 
->Note: You need to repeat this step until all digital assets have been published, this is
+>**Note:** You need to repeat this step until all digital assets have been published, this is
 because the **“Select All”** can only select items on current page.
 
 # Lab Exercise: #
