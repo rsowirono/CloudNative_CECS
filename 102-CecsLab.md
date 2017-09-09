@@ -11,4 +11,5 @@ You will be provided with the following resources for this lab:
 
 
 # Lab Exercise: #
-[Back to CECS Cloud Test Drive Home](README.md) | [Lab 1.3. Upload Lab Resources to CEC](103-CecsLab.md) 
+[Lab 1.1. Introduction](101-CecsLab.md) | [Lab 1.3. Upload Lab Resources to CEC](103-CecsLab.md)
+ 
