@@ -12,4 +12,4 @@ The objectives of this lab are to:
 3. Learn how to use the content items in sites 
 
 # Lab Exercise: #
-[Back to CECS Cloud Test Drive Home](README.md) | [Lab 1.2. Lab Resources](102-CecsLab.md) 
+[Back to CECS Cloud Test Drive Home](README.md) | [Lab 1.2. Lab Resources](102-CecsLab.md)
