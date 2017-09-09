@@ -101,7 +101,7 @@ content items will be displayed on the list.
 3. In the settings, Change the layout of the content **Order By** to ascending
 **(Name Z-A)**.
 
-![](images/1.8.3.3.png)
+![](images/1.8.3.3.png | width=100)
 
 4. Change the item view to **“Default”** and the list view to **“Two Columns”**. You
 will notice the content list placeholder for **Ad_2017** has change to 2 columns
