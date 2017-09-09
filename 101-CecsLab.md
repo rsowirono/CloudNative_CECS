@@ -1,6 +1,6 @@
 # ORACLE Cloud Test Drive #
 
-## Lab 1. Content and Experience Cloud ##
+## Lab 1: Get started with Content and Experience ##
 
 ### 1.1. Introduction ###
 
@@ -49,6 +49,8 @@ In this exercise, you will learn how to import the template and components for t
 
 3. You have successfully imported the template. 
 
+![](images/1.4.1.3.png)
+
 ### 1.4.2. Publish the Components ###
 
 1. Navigate to the Experience->Components page 
@@ -56,7 +58,7 @@ In this exercise, you will learn how to import the template and components for t
 
 ![](images/1.4.2.2.png)
 
-Note:
+>Note:
 o You need to repeat this step until all content layout components are published. 
 o If you have too many components and you only want to select the content layout components, you can use the components filter to display only the content layouts component. 
 
@@ -69,3 +71,14 @@ o If you have too many components and you only want to select the content layout
 4. You have successfully published the component. 
 
 ![](images/1.4.2.4.png)
+
+
+# Lab Exercise: #
+
+## Lab 2: TBD ##
+
+[Click Here.](102-CecsLab.md)
+
+or
+
+[Back to CECS Cloud Test Drive Home](README.md)
