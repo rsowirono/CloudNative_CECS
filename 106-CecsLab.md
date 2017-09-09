@@ -7,10 +7,10 @@
 In this exercise, you will learn how to create content type. You need to create 1 of the 4
 content types used in this exercise:
 
-• Ad_2017– You need to create this content type.
-• Author – Provided, but you need to change the content layout.
-• Blog – Provided, but you need to change the content layout.
-• Promo – Provided, but you need to change the content layout.
+- Ad_2017– You need to create this content type.
+- Author – Provided, but you need to change the content layout.
+- Blog – Provided, but you need to change the content layout.
+- Promo – Provided, but you need to change the content layout.
 
 ### 1.6.1. Creating Content Type ###
 
@@ -18,11 +18,11 @@ content types used in this exercise:
 
 ![](images/1.6.1.1.png)
 
-2. Click “Create” to create a content type.
+2. Click **“Create”** to create a content type.
 
 ![](images/1.6.1.2.png)
 
-3. Enter the “Ad_2017” as the name of the content type and click OK.
+3. Enter the **“Ad_2017”** as the name of the content type and click OK.
 
 ![](images/1.6.1.3.png)
 
@@ -46,8 +46,8 @@ appear.
 >(Note: When you import the template, the name of the layout component will
 have a running number suffix.)
 
-**• Default: Ad-Default**
-**• Highlight: Ad-Highlight**
+**- Default: Ad-Default**
+**- Highlight: Ad-Highlight**
 
 7. If the **“Highlight”** style doesn’t exist, you need to add it by clicking the **“Add
 Layout Style”** button, type the name of the style (Highlight) and press the
@@ -63,7 +63,7 @@ The Author, Blog and Promo content types were pre-created before you import
 the content layout component, you need to configure the content layout for
 these 3 content items to render the content item properly.
 
-1. Navigate to **Content->Content Items->Manage Types**, and Click the Create
+1. Navigate to `` Content->Content Items->Manage Types ``, and Click the Create
 Item button.
 
 ![](images/1.6.2.1.png)
@@ -74,9 +74,9 @@ Item button.
 
 3. Change Author content type layout style to:
 
-• Default: Author-Details
-• Details: Author-Details
-• Banner: Author-Banner
+- Default: Author-Details
+- Details: Author-Details
+- Banner: Author-Banner
 
 4. Click Save to save the content type
 
@@ -84,7 +84,7 @@ Item button.
 
 5. You need to repeat this to change the Blog and Promo content type.
 
-• Blog
+- Blog
 
 i. Default: Blog-Default
 ii. Details: Blog-Details
@@ -94,7 +94,7 @@ v. Highlight: Blog-Highlight
 vi. Overlay: Blog-Overlay
 vii. Banner: Blog-Banner
 
-• Promo
+- Promo
 
 i. Default: Promo-Default
 ii. Details: Promo-Details
