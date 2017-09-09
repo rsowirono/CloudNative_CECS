@@ -22,12 +22,12 @@ content types used in this exercise:
 
 ![](images/1.6.1.2.png)
 
-3. Enter the **“Ad_2017”** as the name of the content type and click OK.
+3. Enter the **“Ad_2017”** as the name of the content type and click **OK**.
 
 ![](images/1.6.1.3.png)
 
 4. Follow the information below to create the content type definition. Drag and
-drop a data field into the Content Type Definition placeholder. Once you
+drop a data field into the `Content Type Definition` placeholder. Once you
 dropped a data field into the placeholder, the data field setting screen will
 appear.
 
@@ -55,9 +55,6 @@ appear.
 
 >**Note:** When you import the template, the name of the layout component will
 have a running number suffix.
-
-- **Default: Ad-Default**
-- **Highlight: Ad-Highlight**
 
 | Content Layout |  |
 | ------------: | ------------- |
@@ -119,8 +116,8 @@ The Author, Blog and Promo content types were pre-created before you import
 the content layout component, you need to configure the content layout for
 these 3 content items to render the content item properly.
 
-1. Navigate to `` Content -> Content Items -> Manage Types ``, and Click the Create
-Item button.
+1. Navigate to `` Content -> Content Items -> Manage Types ``, and Click the **Create
+Item button**.
 
 ![](images/1.6.2.1.png)
 
@@ -138,7 +135,7 @@ Item button.
 ||Banner: `Author-Banner`| 
 
 
-4. Click Save to save the content type
+4. Click **Save** to save the content type
 
 ![](images/1.6.2.4.png)
 
