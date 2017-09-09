@@ -14,7 +14,7 @@ content types used in this exercise:
 
 ### 1.6.1. Creating Content Type ###
 
-1. Navigate to Content->Content Items page, then click “Manage Types”.
+1. Navigate to ``Content->Content Items`` page, then click **“Manage Types”**.
 
 ![](images/1.6.1.1.png)
 
@@ -68,7 +68,7 @@ Item button.
 
 ![](images/1.6.2.1.png)
 
-2. Click the Author content type, then click the Content Layout link
+2. Click the ``Author content type``, then click the ``Content Layout`` link
 
 ![](images/1.6.2.2.png)
 
@@ -85,19 +85,17 @@ Item button.
 5. You need to repeat this to change the Blog and Promo content type.
 
 - Blog
-
-i. Default: Blog-Default
-ii. Details: Blog-Details
-iii. Headline: Blog-Headline
-iv. Author: Blog-Author
-v. Highlight: Blog-Highlight
-vi. Overlay: Blog-Overlay
-vii. Banner: Blog-Banner
+  - Default: Blog-Default
+  - Details: Blog-Details
+  - Headline: Blog-Headline
+  - Author: Blog-Author
+  - Highlight: Blog-Highlight
+  - Overlay: Blog-Overlay
+  - Banner: Blog-Banner
 
 - Promo
-
-i. Default: Promo-Default
-ii. Details: Promo-Details
+  - Default: Promo-Default
+  - Details: Promo-Details
 
 # Lab Exercise: #
 

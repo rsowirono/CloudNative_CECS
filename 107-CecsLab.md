@@ -8,11 +8,11 @@ created in previous exercise.
 
 ### 7.1. Create Content Item ###
 
-1. Navigate to Content->Content Items, and Click the Create Item button.
+1. Navigate to ``Content->Content Items``, and Click the ``Create Item`` button.
 
 ![](images/1.7.1.1.png)
 
-2. Select the “Ad_2017” content type you just created, select **“CafeSupremo Site Content”** collection and enter the content item information in [Appendix A](resource/AppendixA.md) and click **“OK”**.
+2. Select the **“Ad_2017”** content type you just created, select **“CafeSupremo Site Content”** collection and enter the content item information in [Appendix A](resource/AppendixA.md) and click **“OK”**.
 
 ![](images/1.7.1.2.png)
 
@@ -26,14 +26,13 @@ created in previous exercise.
 
 ### 7.2. Publish Content Items ###
 
-1. Navigate to Content->Collections, and click on the CafeSupremo Site Content” collection.
+1. Navigate to ``Content->Collections``, and click on the ``CafeSupremo Site Content`` collection.
 
 ![](images/1.7.2.1.png)
 
 2. Select all content items and click the Publish button to publish the item. You need to make sure all items in this collection are published.
 
 3. Verify the status of all items in this collection are published.
-
 
 
 # Lab Exercise: #
