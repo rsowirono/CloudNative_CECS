@@ -36,15 +36,15 @@ appear.
 ![](images/1.6.1.4b.png) ![](images/1.6.1.4c.png)
 
 
+### Content Type Name: Ad_2017 ###
+
 | Data Fields   | Name          | Id 			| Other Settings |
 | ------------- | ------------- | ------------- | -------------  |
-| Media  | Image Banner 1440x600  |ad_image_banner| Documents: Unselected |
-| Media  | Image Side 280x478  |ad_image_side|Documents: Unselected|
-|Text|CommerceURL|ad_commerceurl|Custom validation: `Pattern validation: Checked` `Pattern: URL`|
+| Media  | Image Banner 1440x600  |ad_image_banner| Documents: `Unselected` |
+| Media  | Image Side 280x478  |ad_image_side|Documents: `Unselected`|
+|Text|CommerceURL|ad_commerceurl|**Custom validation:** Pattern validation: `Checked` Pattern: `URL`|
 |Text|TextPosition|ad_2017_textposition|Single text box: `Single-select menu` Options: `Left`/`Center`/`Right`|
 |Text|TextColor|ad_2017_textcolor|Single text box: `Single-select menu` Options: `Light`/`Dark`|
-
-[Content Type Name: Ad_2017](resource/ContentTypes.md)
 
 ![](images/1.6.1.4d.png)
 
@@ -52,11 +52,11 @@ appear.
 
 6. Select following content layouts for the layout styles.
 
->Note: When you import the template, the name of the layout component will
+>**Note:** When you import the template, the name of the layout component will
 have a running number suffix.
 
-**- Default: Ad-Default**
-**- Highlight: Ad-Highlight**
+- **Default: Ad-Default**
+- **Highlight: Ad-Highlight**
 
 7. If the **“Highlight”** style doesn’t exist, you need to add it by clicking the **“Add
 Layout Style”** button, type the name of the style (Highlight) and press the
@@ -65,6 +65,40 @@ enter button on your keyboard.
 ![](images/1.6.1.7.png)
 
 8. Click **“Save”** to save the content type.
+
+
+10. You need to repeat the steps above for - `Author` – `Blog` –  `Promo` –
+
+### Content Type Name: Author ###
+
+| Data Fields   | Name          | Id 			| Other Settings |
+| ------------- | ------------- | ------------- | -------------  |
+| Media  | Image Banner 1440x600  |ad_image_banner| Documents: `Unselected` |
+| Media  | Image Side 280x478  |ad_image_side|Documents: `Unselected`|
+|Text|CommerceURL|ad_commerceurl|**Custom validation:** Pattern validation: `Checked` Pattern: `URL`|
+|Text|TextPosition|ad_2017_textposition|Single text box: `Single-select menu` Options: `Left`/`Center`/`Right`|
+|Text|TextColor|ad_2017_textcolor|Single text box: `Single-select menu` Options: `Light`/`Dark`|
+
+### Content Type Name: Blog ###
+
+| Data Fields   | Name          | Id 			| Other Settings |
+| ------------- | ------------- | ------------- | -------------  |
+| Media  | Image Banner 1440x600  |ad_image_banner| Documents: `Unselected` |
+| Media  | Image Side 280x478  |ad_image_side|Documents: `Unselected`|
+|Text|CommerceURL|ad_commerceurl|**Custom validation:** Pattern validation: `Checked` Pattern: `URL`|
+|Text|TextPosition|ad_2017_textposition|Single text box: `Single-select menu` Options: `Left`/`Center`/`Right`|
+|Text|TextColor|ad_2017_textcolor|Single text box: `Single-select menu` Options: `Light`/`Dark`|
+
+### Content Type Name: Promo ###
+
+| Data Fields   | Name          | Id 			| Other Settings |
+| ------------- | ------------- | ------------- | -------------  |
+| Media  | Image Banner 1440x600  |ad_image_banner| Documents: `Unselected` |
+| Media  | Image Side 280x478  |ad_image_side|Documents: `Unselected`|
+|Text|CommerceURL|ad_commerceurl|**Custom validation:** Pattern validation: `Checked` Pattern: `URL`|
+|Text|TextPosition|ad_2017_textposition|Single text box: `Single-select menu` Options: `Left`/`Center`/`Right`|
+|Text|TextColor|ad_2017_textcolor|Single text box: `Single-select menu` Options: `Light`/`Dark`|
+
 
 ### 1.6.2. Change Content Item Layout ###
 
@@ -91,7 +125,7 @@ Item button.
 
 ![](images/1.6.2.4.png)
 
-5. You need to repeat this to change the Blog and Promo content type.
+5. You need to repeat the steps above to change the Blog and Promo content type.
 
 - Blog
   - Default: Blog-Default
