@@ -40,6 +40,9 @@ appear.
 | ------------- | ------------- | ------------- | -------------  |
 | Media  | Image Banner 1440x600  |ad_image_banner| Documents: Unselected |
 | Media  | Image Side 280x478  |ad_image_side|Documents: Unselected|
+|Text|CommerceURL|ad_commerceurl|Custom validation: `Pattern validation: Checked` `Pattern: URL`|
+|Text|TextPosition|ad_2017_textposition|Single text box: `Single-select menu` Options: `Left`/`Center`/`Right`|
+|Text|TextColor|ad_2017_textcolor|Single text box: `Single-select menu` Options: `Light`/`Dark`|
 
 [Content Type Name: Ad_2017](resource/ContentTypes.md)
 
