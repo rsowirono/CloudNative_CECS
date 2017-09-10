@@ -14,7 +14,7 @@ You will see the CEC WebUI.
 
 In the previous lab we have created a Custom Property **‘userXX_DocumentApproval’** and assigned it to a folder **‘xx_Document Workflow’**.
 
-### 4.1. Now we will create the necessary sub-folders for our document workflow sample.### 
+### 4.1. Now we will create the necessary sub-folders for our document workflow sample. ### 
 
 1.	Tick the checkbox beside your **xx_Document Workflow** folder. 
 
@@ -125,7 +125,7 @@ a.	The task is completed in PCS.
 
 b.	The Meta-Data is updated on the document.
 
-###Congratulations you have completed the Lab! ###
+### Congratulations you have completed the Lab! ###
 
 # Lab Exercise: #
 [Lab 2B: Document Workflow in Content and Experience Cloud ](201-CecsPCSLab.md) | [Back to CECS Cloud Test Drive Home](../README.md)
