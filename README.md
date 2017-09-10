@@ -45,9 +45,7 @@ Manage content from your enterprise applications, provide content services for e
 
 # Lab Exercise: #
 
-## Lab 1: Get started with Content and Experience ##
-
-[Click Here.](101-CecsLab.md)
+[## Lab 1: Get started with Content and Experience ##](100/101-CecsLab.md)
 
 ## Lab 2: TBD ##
 
