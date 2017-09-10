@@ -2,9 +2,19 @@
 
 ## Lab 1.4: Import Template and Components ##
 
-### Introduction ###
+### About this Lab ###
 
 In this exercise, you will learn how to import the template and components for the CafeSupremo Marketing site.
+
+>[What is a template?](https://docs.oracle.com/en/cloud/paas/content-cloud/user/what-is-template.html)
+
+>[What is a component?](https://docs.oracle.com/en/cloud/paas/content-cloud/user/what-is-component.html)
+
+>[What is a custom component?](https://docs.oracle.com/en/cloud/paas/content-cloud/user/what-is-custom-component.html)
+
+>[How do I import a template?](https://docs.oracle.com/en/cloud/paas/content-cloud/user/how-do-i-import-template.html)
+
+---
 
 ### 1.4.1. Import Template ###
 
@@ -46,5 +56,6 @@ The menu bar will not appear until a selection is made.
 
 ![](images/1.4.2.4.png)
 
+---
 # Lab Exercise: #
 [Lab 1.3. Upload Lab Resources to CEC](103-CecsLab.md) | [Lab 1.5. Creating a New Site](105-CecsLab.md) 
