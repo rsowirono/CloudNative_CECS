@@ -29,7 +29,7 @@ content types used in this exercise:
 
 3. Enter the **“Ad_2017”** as the name of the content type and click **OK**.
 
-<img src="images/1.6.1.3.png" width="50%" height="50%" /> 
+<img src="../images/1.6.1.3.png" width="50%" height="50%" /> 
 
 4. Follow the information below to create the content type definition. Drag and
 drop a data field into the `Content Type Definition` placeholder. Once you
