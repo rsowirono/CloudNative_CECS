@@ -51,11 +51,11 @@ Now we will create the necessary sub-folders for our document workflow sample.
 
 a.	Set the view on Customer Properties 
 
-<img src="images/2.4.14.png" width="50%"/>
+<img src="images/2.4.14.png" width="100%"/>
 
 b.	You are likely to reach a screen as follows:
 
-<img src="images/2.4.15.png" width="50%"/>
+<img src="images/2.4.15.png" width="100%"/>
 
 c.	Click the Manage button and push the “switch” to enable the DocumentApproval collection
 
@@ -63,7 +63,7 @@ c.	Click the Manage button and push the “switch” to enable the DocumentAppro
 
 d.	You should see something like this:
 
-<img src="images/2.4.17.png" width="50%"/>
+<img src="images/2.4.17.png" width="100%"/>
 
 ### 5	Run the Scenario ###
 
@@ -92,11 +92,11 @@ Next we will run the Document Workflow Scenario using the PCS Web Client
 
 4.	Select the task in the list.
 
-<img src="images/2.5.4.png" width="50%"/>
+<img src="images/2.5.4.png" width="100%"/>
 
 5.	Select the Document Icon to view the Document that you dropped into the folder.
 
-<img src="images/2.5.5.png" width="50%"/> 
+<img src="images/2.5.5.png" width="100%"/> 
 
 ### 5.1.3	Perform a Document Action on the task in PCS ###
 
@@ -125,8 +125,10 @@ You also want to update the Meta-Data on the document itself.
 5.	Result:
 
 a.	The task is completed in PCS.
+
 b.	The Meta-Data is updated on the document.
 
+###Congratulations you have completed the Lab! ###
 
 # Lab Exercise: #
-[Lab 2.1. Document Workflow in Content and Experience Cloud ](201-CecsPCSLab.md) | [Lab 2.3. ... ](203-CecsPCSLab.md)
+[Lab 2.1. Document Workflow in Content and Experience Cloud ](201-CecsPCSLab.md) | [Back to CECS Cloud Test Drive Home](../README.md)
