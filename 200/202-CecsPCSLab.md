@@ -8,18 +8,15 @@ Open your preferred web browser and navigate to your Oracle CEC site (https://yo
  
 <img src="images/2.4.1.png" width="50%"/>
  
->Note:Login with the the username / password that you have been given by your training administrator
+>**Note:** Login with the the username / password that you have been given by your training administrator.
 
 You will see the CEC WebUI.
 
+In the previous lab we have created a Custom Property **‘userXX_DocumentApproval’** and assigned it to a folder **‘xx_Document Workflow’**.
 
-~~In the previous lab we have created a Custom Property ‘userXX_DocumentApproval’ and assigned it to a folder ‘xx_Document Workflow’.~~
+### 4.1. Now we will create the necessary sub-folders for our document workflow sample.### 
 
-``need to replace the above with the steps to create Custom Properties``
-
-Now we will create the necessary sub-folders for our document workflow sample. 
-
-1.	Tick the checkbox beside your xx_Document Workflow folder. 
+1.	Tick the checkbox beside your **xx_Document Workflow** folder. 
 
 2.	Select ``Share`` from the upper menu
 
@@ -31,7 +28,7 @@ Now we will create the necessary sub-folders for our document workflow sample.
 
 5.	Create another subfolder **‘Approved’** on the same level.
 
-6.	We are now using this folder to assign a document workflow process from PCS to it.
+6.	We are now using this folder to assign a document workflow process from Process Cloud to it.
 
 7.	Select the **Inbox** folder. 
 
@@ -65,7 +62,7 @@ d.	You should see something like this:
 
 <img src="images/2.4.17.png" width="100%"/>
 
-### 5	Run the Scenario ###
+### 5.	Run the Scenario ###
 
 Next we will run the Document Workflow Scenario using the PCS Web Client 
 
