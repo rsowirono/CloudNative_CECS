@@ -16,12 +16,12 @@ component you just imported.
 
 1. Navigate to ``Experience -> Sites``, and click **“Create”**.
 
-![](images/1.5.1.1.png)
+<img src="images/1.5.1.1.png" width="75%" height="50%" align="center"/> 
 
 2. Select `CafeSupremo` template, and the name of the site **“CafeSupremo”** ,
 then click **“Create”** to create the marketing site.
 
-![](images/1.5.1.2.png)
+<img src="images/1.5.1.2.png" width="75%" height="50%" /> 
 
 3. You have successfully created a site using the template.
 
@@ -46,14 +46,11 @@ click the **“Select All”** and **“Add to Collection”** link again to add
 
 2. Select **“CafeSupremo Site Content”** and click the **OK** button.
 
-
-![](images/1.5.2.2.png)
-
-![](images/1.5.2.2a.png)
+<img src="images/1.5.2.2.png"/> <img src="images/1.5.2.2a.png" width="55%" height="55%" /> 
 
 >**Note:** If you are prompted by the browser to `kill the process`, please click **“Wait”**.
 
-![](images/1.5.2.2b.png)
+<img src="images/1.5.2.2b.png" width="50%" height="50%" />
 
 ### 1.5.3. Publish Digital Assets ###
 
