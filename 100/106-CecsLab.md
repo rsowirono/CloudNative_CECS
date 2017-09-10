@@ -170,4 +170,4 @@ Item button**.
 ---
 # Lab Exercise: #
 
-[Lab 1.5: Creating a New Site](105-CecsLab.md) | [Lab 1.7: Creating and Publishing Content Item](107-CecsLab.md)
+<< [Lab 1.5: Creating a New Site](105-CecsLab.md) | [Lab 1.7: Creating and Publishing Content Item](107-CecsLab.md) >>
