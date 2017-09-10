@@ -2,10 +2,10 @@
 
 ## Lab 1.8. Using Content Item in Sites ##
 
-### Introduction ###
+### About this Lab ###
 
 -- TBD --
-
+---
 ### 1.8.1. Update the Content Layout Components ###
 
 You need to update the **Ad-Default** and **Ad-Highlight** components to use the content type you created in previous exercise, this is because the field id used in the content
@@ -61,13 +61,11 @@ Ad_Default content layout component. Change to Highlight layout to verify the Ad
 ![](images/1.8.2.1.png)
 
 2. Provide a name **“Change Content Item”** for your update, then click **“Create”**. A new site editor page tab will be displayed.
+<img src="images/1.8.2.2.png" width="50%">
 
-![](images/1.8.2.2.png)
 ![](images/1.8.2.2a.png)
 
-3. In the site editor page, click the **“Edit”** to enable editing.
-
-![](images/1.8.2.3.png)
+3. In the site editor page, click the **“Edit”** <img src="images/1.8.2.3.png" width="100"> to enable editing.
 
 4. Scroll down until you see the **Content List: Ad** and open the **Settings** for
 this placeholder.
@@ -101,12 +99,13 @@ content items will be displayed on the list.
 3. In the settings, Change the layout of the content **Order By** to ascending
 **(Name Z-A)**.
 
-![](images/1.8.3.3.png | width=100)
+<img src="images/1.8.3.3.png" width="50%">
+
 
 4. Change the item view to **“Default”** and the list view to **“Two Columns”**. You
 will notice the content list placeholder for **Ad_2017** has change to 2 columns
 
-![](images/1.8.3.4.png)
+<img src="images/1.8.3.4.png" width="50%">
 ![](images/1.8.3.4b.png)
 
 5. Scroll down and open the settings for **Content List Blog**. Ensure the **Order
