@@ -26,7 +26,7 @@ In this exercise, you will learn how to import the template and components for t
 
 >Note: If you are prompted to replace or create a new component, just except the default by clicking **OK**.
 
-![](../images/1.4.1.2.png)  
+<img src="../images/1.4.1.2.png" width="50%"/> 
 
 3. You have successfully imported the template. 
 
@@ -46,11 +46,11 @@ The menu bar will not appear until a selection is made.
 
 >If you have too many components and you only want to select the content layout components, you can use the components filter to display only the content layouts component. 
 
-![](../images/1.4.2.2.a.png)
+<img src="../images/1.4.2.2.a.png" width="50%"/>
 
 3. On the publish component page, click **“Confirm to proceed”** and then OK to publish the component. 
 
-![](../images/1.4.2.3.png)
+<img src="../images/1.4.2.3.png" width="50%"/>
 
 4. You have successfully published the component. 
 
