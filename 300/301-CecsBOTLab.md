@@ -27,16 +27,14 @@ First we are going to set up some content on CEC that we can use in the bot.
 #### 4.1. Create Content-Type ####
 
 <img src="images/301-4-0.png" width="100%"/>
-<img src="images/301-4-1.png" width="50%"/>
-<img src="images/301-4-2.png" width="50%"/>
+
+<img src="images/301-4-1.png" width="50%"/><img src="images/301-4-2.png" width="50%"/>
 
 1. Create a new content type called <userid>BotArticle. Add one field to it: ``Summary`` (<userid>botarticle_summary).
 
 #### 4.2. Create a Collection ####
 
-<img src="images/301-4-2-1.png" width="50%"/>
-
-<img src="images/301-4-2-2.png" width="50%"/>
+<img src="images/301-4-2-1.png" width="50%"/><img src="images/301-4-2-2.png" width="50%"/>
 
 
 1. To publish our content so it can be consumed by the bot, we need a Collection. Create a collection
@@ -78,4 +76,4 @@ TBD
 ### Congratulations you have completed the Lab! ###
 
 # Lab Exercise: #
-[Back to CECS Cloud Test Drive Home](../README.md) | [Lab 3.2. Lab Resources](202-CecsBOTLab.md)
+[Back to CECS Cloud Test Drive Home](../README.md)
