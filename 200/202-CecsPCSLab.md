@@ -119,7 +119,7 @@ You also want to update the Meta-Data on the document itself.
 
 4.	At the top of the form, click the ``APPROVE`` button to approve the task.
 
-5.	Result:
+### Result: ###
 
 a.	The task is completed in PCS.
 
