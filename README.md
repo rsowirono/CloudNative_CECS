@@ -46,8 +46,9 @@ Manage content from your enterprise applications, provide content services for e
 # Lab Exercise: #
 
 #### Lab 1: Get started with Content and Experience [(Start Lab)](100/101-CecsLab.md) #### 
-#### Lab 2a: Content Metadata [(Start Lab)](200/203-CecsPCSLab.md) ####
-#### Lab 2b: Document Workflow in Content and Experience Cloud [(Start Lab)](200/201-CecsPCSLab.md) ####
+#### Lab 2: Document Workflow in Content and Experience Cloud ####
+  ##### Lab 2A: Content Metadata [(Start Lab)](200/203-CecsPCSLab.md) #####
+  ##### Lab 2B: Document Workflow [(Start Lab)](200/201-CecsPCSLab.md) #####
 #### Lab 3: Omni-Channel Headless Content Delivery to Chatbot [(Start Lab)](300/301-CecsBOTLab.md) ####
 
 
