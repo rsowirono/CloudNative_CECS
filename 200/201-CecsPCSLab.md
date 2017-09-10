@@ -11,15 +11,14 @@ The objectives of this lab are to:
 2.	Study and understand the kind of document actions that can be taken to move or copy the document, as well as updating the metadata
 
 ### 2.	Environment ###
+CEC GSE Environment:
 You will be provided with username and pwd during the lab.
 
 PCS GSE Environment:
-https://workshoppcs2-gse00009990.process.us2.oraclecloud.com/bpm/workspace/faces/homePage.jspx
-	You will be provided with username and pwd during the lab.
+You will be provided with username and pwd during the lab.
 
 ### 3.	Lab Resources ###
 There are no pre-requisites for this lab.
-
 
 # Lab Exercise: #
 [Back to CECS Cloud Test Drive Home](../README.md) | [Lab 2.2. Setting the workflow in CEC](202-CecsPCSLab.md)
