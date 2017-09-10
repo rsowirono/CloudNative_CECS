@@ -47,19 +47,15 @@ called **“<userid>BotCollection”** and set it to the Publish Target “Syste
 Now we are going to create two content items of the content type we just created: BotArticle.
 Make sure that when you create the items you select the <userid>BotCollection as the Collection
 
-Title: “Barista of the Month”
+|Attribute|Value|
+|---:|---|
+|Title:| “Barista of the Month”|
+|Summary:| “Meet Kirk, our barista of the month who works out of our Seattle Madison Park coffeeshop. His love of coffee started early, and he wants to share everything he knows with you. Learn anything from designing latte art to perfecting your coffee brew. Find out what his favorite coffee and ice cream pairing is. Visit Kirk today our flagship Cafe Supremo coffeeshop in Seattle and ask him anything.”|
 
-Summary: “Meet Kirk, our barista of the month who works out of our Seattle Madison Park
-coffeeshop. His love of coffee started early, and he wants to share everything he knows with
-you. Learn anything from designing latte art to perfecting your coffee brew. Find out what his
-favorite coffee and ice cream pairing is. Visit Kirk today our flagship Cafe Supremo coffeeshop
-in Seattle and ask him anything.”
-
-Title: “Sustainable Coffee”
-
-Summary: “Our coffee comes from South American regions where we have a strong commitment
-to supporting the farming communities that supply our coffee, tea and cocoa, and other
-agricultural products. Experience our famous Aroma coffee roast today.”
+|Attribute|Value|
+|---:|---|
+|Title:| “Sustainable Coffee”|
+|Summary:| “Our coffee comes from South American regions where we have a strong commitment to supporting the farming communities that supply our coffee, tea and cocoa, and other agricultural products. Experience our famous Aroma coffee roast today.”|
 
 #### 4.4. Publish ####
 
