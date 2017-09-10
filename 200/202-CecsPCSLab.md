@@ -99,25 +99,25 @@ Next we will run the Document Workflow Scenario using the PCS Web Client
 
 You decided to move the document after the task is approved.
 
-1.	Close the document (click on the cross at the left of Documents.)
+1.	``Close`` the document (click on the cross at the left of Documents.)
 
-2.	From the Document Action dropdown on the form, select Move.
+2.	From the ``Document Action`` dropdown on the form, select ``Move``.
 
-3.	In the Destination dropdown, select Approved.
+3.	In the ``Destination`` dropdown, select ``Approved``.
 
 ### 5.1.4	Performing Meta-Data Operations ###
 
 You also want to update the Meta-Data on the document itself. 
 
-1.	On the form, Open Document Meta Data Collection dropdown on the form, select Document Approval.
+1.	On the form, Open ``Document Meta Data Collection`` dropdown on the form, select ``Document Approval``.
 
 >Note: Document Approval is currently the only option in the dropdown that is supported.
 
-2.	Result:  The Document Information is displayed on the form. All fields are required. Add some significant values for “approved by” and “originator”, such as your own name.
+2.	Result: The Document Information is displayed on the form. All fields are required. Add some significant values for **“approved by”** and **“originator”**, such as your own name.
 
 3.	Fill in a value for each of the fields on the form.
 
-4.	At the top of the form, click the APPROVE button to approve the task.
+4.	At the top of the form, click the ``APPROVE`` button to approve the task.
 
 5.	Result:
 
