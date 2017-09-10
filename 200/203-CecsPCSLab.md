@@ -202,5 +202,5 @@ Notice that the metadata are coming from the parent level folder. Of course, you
 Please repeat the previous steps and create a folder **‘xx_Document Workflow’** (where xx stands for your participant name) and assign the Custom Property **‘DocumentApproval’** to it.
 
 # Lab Exercise: #
-[Next: Lab 2B: Document Workflow in Content and Experience Cloud ](201-CecsPCSLab.md)
+[Back to CECS Cloud Test Drive Home](../README.md) | [Next: Lab 2B: Document Workflow in Content and Experience Cloud ](201-CecsPCSLab.md)
 
