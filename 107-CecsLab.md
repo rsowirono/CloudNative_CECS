@@ -2,10 +2,11 @@
 
 ## Lab 1.7. Creating and Publishing Content Item ##
 
-### Introduction ###
+### About this Lab ###
 In this exercise, you will learn how to create content item using the content type
 created in previous exercise.
 
+---
 ### 1.7.1. Create Content Item ###
 
 1. Navigate to ``Content -> Content Items``, and Click the ``Create Item`` button.
@@ -34,7 +35,7 @@ created in previous exercise.
 
 3. Verify the status of all items in this collection are published.
 
-
+---
 # Lab Exercise: #
 
 [Lab 1.6: Creating Content Type](106-CecsLab.md) | [Lab 1.8: Using Content Item in Sites](108-CecsLab.md)
