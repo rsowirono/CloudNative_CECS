@@ -31,7 +31,7 @@ can work with Custom Properties, the manual also gets more specific and points o
 
 >The Content and Experience CS administrators can enable and create custom properties.
 
-<img src="images/203-2-3.png" width="50%"/>
+<img src="images/203-2-3.png" width="100%"/>
 
 ### 3.	Environment ###
 
@@ -111,8 +111,8 @@ You are able to change your **‘Custom Property’** as an Administrator by cli
 
 6. Please repeat the previous steps and create a new **‘Custom Property’** userXX_Digital Media with the following entries:
 
-|Label|Default|Value|Type|
-|-----|-----|-----|-----|
+|Label|Default Value|Type|
+|-----|-----|-----|
 |Colour|Colour|text|
 |Object|	|text|
 |Type|Photo|text|
@@ -122,7 +122,7 @@ You are able to change your **‘Custom Property’** as an Administrator by cli
 
 7. Your new **‘Custom Property’** userxx_Digital Media should now look like this:
  
- <img src="images/203-5-1-7.png" width="50%"/>
+ <img src="images/203-5-1-7.png" width="100%"/>
 
 You now have finished the 1st part and have created 2 new ‘Custom Property’ called userxx_DocumentApproval and userxx_Digital Media.
 In the next part we will see how to associate these ‘Custom Properties’ with content and folders.
@@ -153,15 +153,15 @@ Custom Properties are available at the folder and content level once they have b
  
 3. Enter a ``name`` for your new folder **‘Images’**. A description could be helpful for better identification of the folder purpose.
 
-<img src="images/203-6-1-3.png" width="50%"/>
+<img src="images/203-6-1-3.png" width="25%"/>
 
 4. Click **‘Create’**. Your new folder will show up in the **‘Documents’** view.
 
-<img src="images/203-6-1-4.png" width="50%"/>
+<img src="images/203-6-1-4.png" width="100%"/>
 
 5. Go into the folder by clicking on its name. This folder has, by design, not any metadata (Custom Properties) associated to it. To assign a **‘Custom Property’** we have to go into the ``folder’s preferences``. Click on the **‘3 dots’** on the upper right part of the WebUI.
 
-<img src="images/203-6-1-5.png" width="50%"/>
+<img src="images/203-6-1-5.png" width="100%"/>
  
 6. Select **‘Custom Properties’**. As this is the first time we are assigning ‘Custom Properties’ to this folder we’ll get a welcome screen
 
@@ -183,22 +183,20 @@ You now have assigned a metadata set ‘Digital Media’ to your folder Images.
 >**Note:** Custom Properties can be assigned on folder AND content level. 
 
 ``If assigned on folder level, all metadata will be inherited on the lower level subfolders AND content.
-
 Additional Custom Properties can be assigned on individual subfolder AND content level.
-
 However, higher level Custom Properties cannot be removed on lower level.``
 
 10. Within this screen enter a few metadata into the fields for **‘Digital Media’and click ‘Save’**.
 
-<img src="images/203-6-1-10.png" width="25%"/>
+<img src="images/203-6-1-10.png" width="50%"/>
 
 11. Next, upload an image from the **‘Upload’** button:
 
-<img src="images/203-6-1-11.png" width="50%"/>
+<img src="images/203-6-1-11.png" width="100%"/>
 
 12. Click on the image to open it in the viewer.
 
-<img src="images/203-6-1-12.png" width="50%"/>
+<img src="images/203-6-1-12.png" width="100%"/>
 
 Notice that the metadata are coming from the parent level folder. Of course, you can change the values afterwards.
 Please repeat the previous steps and create a folder **‘xx_Document Workflow’** (where xx stands for your participant name) and assign the Custom Property **‘DocumentApproval’** to it.
