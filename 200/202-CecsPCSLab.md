@@ -6,7 +6,7 @@
 
 Open your preferred web browser and navigate to your Oracle CEC site (https://yourinstancename.documents.yourdatacenter.oraclecloud.com/documents)
  
-<img src="images/2.4.1.png" width="25%"/>
+<img src="images/2.4.1.png" width="50%"/>
  
 Login with the the username / password that you have been given by your training administrator
 You will see the CEC WebUI.
@@ -20,7 +20,7 @@ Now we will create the necessary sub-folders for our document workflow sample.
 
 3.	Share your folder with Demoadmin3 and give this user contributor rights
 
-<img src="images/2.4.3.png" width="25%"/>
+<img src="images/2.4.3.png" width="50%"/>
 
 4.	Inside the ‘xx_Document Workflow’ folder, create a subfolder ‘Inbox’.
 
@@ -38,7 +38,7 @@ Now we will create the necessary sub-folders for our document workflow sample.
 
 11.	Select Save. Reopen the properties to make sure that your settings have been taken into account. It should look like this:
 
-<img src="images/2.4.11.png" width="25%"/>
+<img src="images/2.4.11.png" width="50%"/>
 
 12.	Next, verify that Metadata has been enabled for your DOCS environment, and what metadata collection has been set on your ‘xx_Document Workflow’ folder. 
 
@@ -46,19 +46,19 @@ Now we will create the necessary sub-folders for our document workflow sample.
 
 14.	Set the view on Customer Properties 
 
-<img src="images/2.4.14.png" width="25%"/>
+<img src="images/2.4.14.png" width="50%"/>
 
 15.	You are likely to reach a screen as follows:
 
-<img src="images/2.4.15.png" width="25%"/>
+<img src="images/2.4.15.png" width="50%"/>
 
 16.	Click the Manage button and push the “switch” to enable the DocumentApproval collection
 
-<img src="images/2.4.16.png" width="25%"/>
+<img src="images/2.4.16.png" width="50%"/>
 
 17.	You should see something like this:
 
-<img src="images/2.4.17.png" width="25%"/>
+<img src="images/2.4.17.png" width="50%"/>
 
 ### 5	Run the Scenario ###
 
@@ -87,11 +87,11 @@ Next we will run the Document Workflow Scenario using the PCS Web Client
 
 4.	Select the task in the list.
 
-<img src="images/2.5.4.png" width="25%"/>
+<img src="images/2.5.4.png" width="50%"/>
 
 5.	Select the Document Icon to view the Document that you dropped into the folder.
 
-<img src="images/2.5.5.png" width="25%"/> 
+<img src="images/2.5.5.png" width="50%"/> 
 
 ### 5.1.3	Perform a Document Action on the task in PCS ###
 
