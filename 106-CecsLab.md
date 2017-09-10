@@ -2,7 +2,7 @@
 
 ## Lab 1.6. Creating Content Type ##
 
-### Introduction ###
+### About this Lab ###
 
 In this exercise, you will learn how to create content type. You need to create 1 of the 4
 content types used in this exercise:
@@ -12,6 +12,11 @@ content types used in this exercise:
 - Blog – Provided, but you need to change the content layout.
 - Promo – Provided, but you need to change the content layout.
 
+>[How do I create and share content types?](https://docs.oracle.com/en/cloud/paas/content-cloud/user/how-do-i-create-content-type.html)
+
+>[How do I create content items?](https://docs.oracle.com/en/cloud/paas/content-cloud/user/how-do-i-create-content-items.html)
+
+---
 ### 1.6.1. Creating Content Type ###
 
 1. Navigate to ``Content -> Content Items`` page, then click **“Manage Types”**.
@@ -24,7 +29,7 @@ content types used in this exercise:
 
 3. Enter the **“Ad_2017”** as the name of the content type and click **OK**.
 
-![](images/1.6.1.3.png)
+<img src="images/1.6.1.3.png" width="50%" height="50%" /> 
 
 4. Follow the information below to create the content type definition. Drag and
 drop a data field into the `Content Type Definition` placeholder. Once you
@@ -33,8 +38,7 @@ appear.
 
 ![](images/1.6.1.4.png)
 
-![](images/1.6.1.4b.png) ![](images/1.6.1.4c.png)
-
+<img src="images/1.6.1.4b.png" width="50%" height="50%" /><img src="images/1.6.1.4c.png" width="50%" height="50%" />
 
 ### Content Type Name: Ad_2017 ###
 
@@ -163,6 +167,7 @@ Item button**.
 || Details: `Promo-Details`|
 ||Tile View: `Promo-Details`|
 
+---
 # Lab Exercise: #
 
 [Lab 1.5: Creating a New Site](105-CecsLab.md) | [Lab 1.7: Creating and Publishing Content Item](107-CecsLab.md)
