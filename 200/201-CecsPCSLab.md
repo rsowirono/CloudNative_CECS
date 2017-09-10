@@ -21,4 +21,4 @@ You will be provided with username and pwd during the lab.
 There are no pre-requisites for this lab.
 
 # Lab Exercise: #
-[Back to CECS Cloud Test Drive Home](../README.md) | [Lab 2.2. Setting the workflow in CEC](202-CecsPCSLab.md)
+[Back to CECS Cloud Test Drive Home](../README.md) | [Next: Setting the workflow in CEC](202-CecsPCSLab.md)
