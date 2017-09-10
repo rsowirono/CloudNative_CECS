@@ -2,10 +2,16 @@
 
 ## Lab 1.5. Creating a New Site ##
 
-### Introduction ###
+### About this Lab ###
 In this exercise, you will create a CafeSupremo marketing site using the template and
 component you just imported.
 
+>[Quick tour of the **Experience** home page](https://docs.oracle.com/en/cloud/paas/content-cloud/user/quick-tour-experience-home-page.html)
+
+>[What is the Site building process—in a nutshell?](https://docs.oracle.com/en/cloud/paas/content-cloud/user/what-is-process-nutshell.html)
+
+> [What are content types, content items, and collections?](https://docs.oracle.com/en/cloud/paas/content-cloud/user/what-are-content-types-content-items-and-collections.html)
+---
 ### 1.5.1. Create a Site ###
 
 1. Navigate to ``Experience -> Sites``, and click **“Create”**.
@@ -62,6 +68,7 @@ the assets.
 >**Note:** You need to repeat this step until all digital assets have been published, this is
 because the **“Select All”** can only select items on current page.
 
+---
 # Lab Exercise: #
 
 [Lab 1.4: Import Template and Components](101-CecsLab.md) | [Lab 1.6: Creating Content Type](106-CecsLab.md)
