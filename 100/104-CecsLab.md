@@ -58,4 +58,4 @@ The menu bar will not appear until a selection is made.
 
 ---
 # Lab Exercise: #
-[Lab 1.3. Upload Lab Resources to CEC](103-CecsLab.md) | [Lab 1.5. Creating a New Site](105-CecsLab.md) 
+<< [Lab 1.3. Upload Lab Resources to CEC](103-CecsLab.md) | [Lab 1.5. Creating a New Site](105-CecsLab.md) >>
