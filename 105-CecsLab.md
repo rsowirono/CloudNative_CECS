@@ -71,4 +71,4 @@ because the **“Select All”** can only select items on current page.
 ---
 # Lab Exercise: #
 
-[Lab 1.4: Import Template and Components](101-CecsLab.md) | [Lab 1.6: Creating Content Type](106-CecsLab.md)
+[Lab 1.4: Import Template and Components](104-CecsLab.md) | [Lab 1.6: Creating Content Type](106-CecsLab.md)
