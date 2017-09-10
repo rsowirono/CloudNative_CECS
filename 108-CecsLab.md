@@ -99,17 +99,16 @@ content items will be displayed on the list.
 3. In the settings, Change the layout of the content **Order By** to ascending
 **(Name Z-A)**.
 
-<img src="images/1.8.3.3.png" width="50%">
-
+<img src="images/1.8.3.3.png" width="25%">
 
 4. Change the item view to **“Default”** and the list view to **“Two Columns”**. You
 will notice the content list placeholder for **Ad_2017** has change to 2 columns
 
-<img src="images/1.8.3.4.png" width="50%">
+<img src="images/1.8.3.4.png" width="25%">
+
 ![](images/1.8.3.4b.png)
 
-5. Scroll down and open the settings for **Content List Blog**. Ensure the **Order
-By is Newest First**.
+5. Scroll down and open the settings for **Content List Blog**. Ensure the **Order By is Newest First**.
 
 6. Navigate back to ``Content -> Content Items`` to add a new **Blog content item**.
 
@@ -120,13 +119,12 @@ blog item is displayed on the page.
 
 ![](images/1.8.3.8.png)
 
-9. Click the `preview button` to open the site in another browser tab in
-preview mode.
+9. Click the `preview button` to open the site in another browser tab in preview mode.
 
 ![](images/1.8.3.9.png)
 
 ## Congratulations! You have successfully completed this Sites and Content lab. ##
-
+---
 # Lab Exercise: #
 
 [Lab 1.7: Creating and Publishing Content Item](107-CecsLab.md) | [Back to CECS Cloud Test Drive Home](README.md)
