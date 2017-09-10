@@ -2,61 +2,66 @@
 
 ## Setting the workflow in CEC ##
 
-4.	Setting the workflow in CEC
+### 4.	Setting the workflow in CEC ###
 
 Open your preferred web browser and navigate to your Oracle CEC site (https://yourinstancename.documents.yourdatacenter.oraclecloud.com/documents)
  
 <img src="images/2.4.1.png" width="50%"/>
  
-Login with the the username / password that you have been given by your training administrator
+>Note:Login with the the username / password that you have been given by your training administrator
+
 You will see the CEC WebUI.
-In the previous lab we have created a Custom Property ‘userXX_DocumentApproval’ and assigned it to a folder ‘xx_Document Workflow’.
+
+
+~~In the previous lab we have created a Custom Property ‘userXX_DocumentApproval’ and assigned it to a folder ‘xx_Document Workflow’.~~
+
+``need to replace the above with the steps to create Custom Properties``
 
 Now we will create the necessary sub-folders for our document workflow sample. 
 
 1.	Tick the checkbox beside your xx_Document Workflow folder. 
 
-2.	Select Share from the upper menu
+2.	Select ``Share`` from the upper menu
 
-3.	Share your folder with Demoadmin3 and give this user contributor rights
+3.	Share your folder with **Bala.Gupta** and give this user ``contributor`` rights
 
 <img src="images/2.4.3.png" width="50%"/>
 
-4.	Inside the ‘xx_Document Workflow’ folder, create a subfolder ‘Inbox’.
+4.	Inside the **‘xx_Document Workflow’** folder, create a subfolder **‘Inbox’**.
 
-5.	Create another subfolder ‘Approved’ on the same level.
+5.	Create another subfolder **‘Approved’** on the same level.
 
 6.	We are now using this folder to assign a document workflow process from PCS to it.
 
-7.	Select the Inbox folder. 
+7.	Select the **Inbox** folder. 
 
-8.	Select the Properties link.
+8.	Select the **Properties** link.
 
-9.	Set the toggle field to “Initiate Process on Document Arrival”
+9.	Set the toggle field to **“Initiate Process on Document Arrival”**
 
-10.	Select the Process Name xx_Production:Document_Workflow_-_from_Chris 1.0. This is how you are linking your folder to the process you want to trigger upon arrival of a document.
+10.	Select the Process Name ``xx_Production:Document_Workflow_-_from_Chris 1.0.`` This is how you are linking your folder to the process you want to trigger upon arrival of a document.
 
-11.	Select Save. Reopen the properties to make sure that your settings have been taken into account. It should look like this:
+11.	Select **Save**. Reopen the properties to make sure that your settings have been taken into account. It should look like this:
 
 <img src="images/2.4.11.png" width="50%"/>
 
-12.	Next, verify that Metadata has been enabled for your DOCS environment, and what metadata collection has been set on your ‘xx_Document Workflow’ folder. 
+12.	Next, verify that Metadata has been enabled for your DOCS environment, and what metadata collection has been set on your **‘xx_Document Workflow’** folder. 
 
-13.	Return to your xx_Document_Workflow folder and enable the metadata for it: 
+13.	Return to your **xx_Document_Workflow** folder and enable the metadata for it: 
 
-14.	Set the view on Customer Properties 
+a.	Set the view on Customer Properties 
 
 <img src="images/2.4.14.png" width="50%"/>
 
-15.	You are likely to reach a screen as follows:
+b.	You are likely to reach a screen as follows:
 
 <img src="images/2.4.15.png" width="50%"/>
 
-16.	Click the Manage button and push the “switch” to enable the DocumentApproval collection
+c.	Click the Manage button and push the “switch” to enable the DocumentApproval collection
 
 <img src="images/2.4.16.png" width="50%"/>
 
-17.	You should see something like this:
+d.	You should see something like this:
 
 <img src="images/2.4.17.png" width="50%"/>
 
