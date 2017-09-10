@@ -21,11 +21,11 @@ content types used in this exercise:
 
 1. Navigate to ``Content -> Content Items`` page, then click **“Manage Types”**.
 
-![](images/1.6.1.1.png)
+![](../images/1.6.1.1.png)
 
 2. Click **“Create”** to create a content type.
 
-![](images/1.6.1.2.png)
+![](../images/1.6.1.2.png)
 
 3. Enter the **“Ad_2017”** as the name of the content type and click **OK**.
 
@@ -36,9 +36,9 @@ drop a data field into the `Content Type Definition` placeholder. Once you
 dropped a data field into the placeholder, the data field setting screen will
 appear.
 
-![](images/1.6.1.4.png)
+![](../images/1.6.1.4.png)
 
-<img src="images/1.6.1.4b.png" width="50%" height="50%" /><img src="images/1.6.1.4c.png" width="50%" height="50%" />
+<img src="../images/1.6.1.4b.png" width="50%" height="50%"/><img src="../images/1.6.1.4c.png" width="50%" height="50%"/>
 
 ### Content Type Name: Ad_2017 ###
 
@@ -51,7 +51,7 @@ appear.
 |Text|TextColor|ad_2017_textcolor|Single text box: `Single-select menu` Options: `Light`/`Dark`|
 
 
-![](images/1.6.1.4d.png)
+![](../images/1.6.1.4d.png)
 
 5. Click the **“Content Layout”** link.
 
@@ -71,7 +71,7 @@ have a running number suffix.
 Layout Style”** button, type the name of the style (Highlight) and press the
 enter button on your keyboard.
 
-![](images/1.6.1.7.png)
+![](../images/1.6.1.7.png)
 
 8. Click **“Save”** to save the content type.
 
@@ -123,11 +123,11 @@ these 3 content items to render the content item properly.
 1. Navigate to `` Content -> Content Items -> Manage Types ``, and Click the **Create
 Item button**.
 
-![](images/1.6.2.1.png)
+![](../images/1.6.2.1.png)
 
 2. Click the ``Author content type``, then click the ``Content Layout`` link
 
-![](images/1.6.2.2.png)
+![](../images/1.6.2.2.png)
 
 3. Change Author content type layout style to:
 
@@ -141,7 +141,7 @@ Item button**.
 
 4. Click **Save** to save the content type
 
-![](images/1.6.2.4.png)
+![](../images/1.6.2.4.png)
 
 5. You need to repeat the steps above to change the Blog and Promo content type.
 

@@ -20,17 +20,17 @@ In this exercise, you will learn how to import the template and components for t
 
 1. Navigate to ``Experience -> Templates``. Click ``Create -> Import`` to import a template package.
 
-![](images/1.4.1.1.png)
+![](../images/1.4.1.1.png)
 
 2. Select the Templates folder, then select the CafeSupremo.zip and click **“OK”**. 
 
 >Note: If you are prompted to replace or create a new component, just except the default by clicking **OK**.
 
-![](images/1.4.1.2.png)  
+![](../images/1.4.1.2.png)  
 
 3. You have successfully imported the template. 
 
-![](images/1.4.1.3.png)
+![](../images/1.4.1.3.png)
 
 ### 1.4.2. Publish the Components ###
 
@@ -38,7 +38,7 @@ In this exercise, you will learn how to import the template and components for t
 2. Select the components and click the **“Publish”** link. You may also select the component and right click to bring up the context menu to publish the component. 
 The menu bar will not appear until a selection is made. 
 
-![](images/1.4.2.2.png)
+![](../images/1.4.2.2.png)
 
 **_Note:_**
 
@@ -46,15 +46,15 @@ The menu bar will not appear until a selection is made.
 
 >If you have too many components and you only want to select the content layout components, you can use the components filter to display only the content layouts component. 
 
-![](images/1.4.2.2.a.png)
+![](../images/1.4.2.2.a.png)
 
 3. On the publish component page, click **“Confirm to proceed”** and then OK to publish the component. 
 
-![](images/1.4.2.3.png)
+![](../images/1.4.2.3.png)
 
 4. You have successfully published the component. 
 
-![](images/1.4.2.4.png)
+![](../images/1.4.2.4.png)
 
 ---
 # Lab Exercise: #

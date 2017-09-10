@@ -15,4 +15,4 @@ The objectives of this lab are to:
 >For a quick view on Content and Experience Browser user interface please click [here](https://docs.oracle.com/en/cloud/paas/content-cloud/user/quick-overview-your-browser-home-page.html).
 
 # Lab Exercise: #
-[Back to CECS Cloud Test Drive Home](README.md) | [Lab 1.2. Lab Resources](102-CecsLab.md)
+[Back to CECS Cloud Test Drive Home](../README.md) | [Lab 1.2. Lab Resources](102-CecsLab.md)
