@@ -7,8 +7,7 @@ This lab is part of the APAC Cloud Test Drive and these are the labs about Omni-
 
 ### About the Exercise Today ###
 
-<img src="images/CafeSupremo-HomePage.png" width="25%"/><img src="images/CafeSupremo-ProductCatalogPage.png" width="25%"/><img src="images/CafeSupremo-BlogLandingPage.png" width="25%"/><img src="images/CafeSupremo-eCommerceHomePage.png" width="25%"/>
-<img src="images/CafeSupremo-PromoDetailPage.png" width="25%"/><img src="images/CafeSupremo-AuthorDetailPage.png" width="25%"/><img src="images/CafeSupremo-BlogDetailPage.png" width="25%"/><img src="images/Promo-Default-View.png" width="25%"/>
+<img src="images/CafeSupremo-HomePage.png" border="1"/>
 
 
 In this exercise, we will we will be building the Cafe Supremo Site using Content and Experience Cloud. We will guide you trough some of the key capabilities CEC has to offer in the form of exercises. Before each exercise you will learn about the tasks that you will be doing and about the functionality you're about to use.
