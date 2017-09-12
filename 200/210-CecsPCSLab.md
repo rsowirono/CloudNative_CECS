@@ -10,7 +10,7 @@ In this lab we will look into how we can configure a process form into a Experie
 
 1. Login to your PCS instance
 
-https://process-gseXXXXXXX.process.us2.oraclecloud.com/bpm/workspace
+``https://process-gseXXXXXXX.process.us2.oraclecloud.com/bpm/workspace``
 
 >Note: Use bala.gupta user and the provided password to login
 
@@ -125,7 +125,8 @@ Next is to add this application to the cafe supremo microsite.
 
 Before we can run the process application in Cafe Supremo we will need to enable Cafe Supremo to be a secure site.
 
-Login to CECS: https://documents-gseXXXXXXXX.documents.us2.oraclecloud.com/documents
+Login to CECS: 
+``https://documents-gseXXXXXXXX.documents.us2.oraclecloud.com/documents``
 
 >Note: Use bala.gupta user and the provided password to login
 
@@ -219,7 +220,7 @@ Now you are ready to check the results.
 
 2. To check the results, login to your process cloud.
 
-https://process-gseXXXXXXX.process.us2.oraclecloud.com/bpm/workspace
+``https://process-gseXXXXXXX.process.us2.oraclecloud.com/bpm/workspace``
 
 >Note: Use bala.gupta user and the provided password to login
 
