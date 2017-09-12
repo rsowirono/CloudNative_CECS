@@ -8,9 +8,9 @@ In this exercise, you will learn how to create content type. You need to create 
 content types used in this exercise:
 
 - Ad_2017– You need to create this content type.
-- Author – Provided, but you need to change the content layout.
-- Blog – Provided, but you need to change the content layout.
-- Promo – Provided, but you need to change the content layout.
+- Author – You need to create this content type, and you need to change the content layout.
+- Blog – You need to create this content type, and you need to change the content layout.
+- Promo – You need to create this content type, and you need to change the content layout.
 
 >[How do I create and share content types?](https://docs.oracle.com/en/cloud/paas/content-cloud/user/how-do-i-create-content-type.html)
 
