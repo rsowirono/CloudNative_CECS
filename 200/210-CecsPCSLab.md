@@ -14,26 +14,45 @@ https://process-gseXXXXXXX.process.us2.oraclecloud.com/bpm/workspace
 
 >Note: Use bala.gupta user and the provided password to login
 
+<img src="images/210-1-1.png" size="50%"/>
+
 2. Click on **Develop Process**
+
+<img src="images/210-1-2.png" size="50%"/>
+<img src="images/210-1-2a.png" size="50%"/>
 
 3. On the left menu click ``Create > Import > Import Application``
 
+<img src="images/210-1-3.png" size="50%"/>
+
 4. A dialog menu will appear Choose the **CustomerBlog.exp** file you should download from [here (CustomerBlog.exp)](../resource/CustomerBlog.exp)
 
-5. Provide the **Name** (eg. CustomerBlog), select space (default: **My Space**) and click **Import**
+<img src="images/210-1-4.png" size="50%"/>
+
+5. Provide the **Name** (eg. CustomerBlog), Select Space (default: **My Space**) and click **Import**
+
+<img src="images/210-1-5.png" size="50%"/>
 
 Once the import is completed you will see the following message
 
+<img src="images/210-1-5a.png" size="50%"/>
+
 6. Next we want to do is to deploy the imported process. Click on the **"CustomerBlog"** (or the name you've given) to open the CustomerBlog Process in the Process Composer shown in the next image.
 
+<img src="images/210-1-6.png" size="50%"/>
+<img src="images/210-1-6a.png" size="50%"/>
 
 7. In the process composer, click on **Activate** icon. You will see the following message **"No version has been deployed"**. Now click on **"Deploy new Version"** button
 
+<img src="images/210-1-7.png" size="50%"/>
 
 8. Enter the User Credentials as shown in the picture below. 
 Select checkbox, **"Remenber Me"**, click ``OK``
 
 >Note: Use the password that has been assign to you.
+
+<img src="images/210-1-8.png" size="50%"/>
+
 
 9. Select Version you want to deploy. Click on the dropdown and choose ``"Last Published Version"``. Click **Customize**.
 
