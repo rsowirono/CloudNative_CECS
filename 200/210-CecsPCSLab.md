@@ -27,11 +27,11 @@ In this lab we will look into how we can configure a process form into a Experie
 
 4. A dialog menu will appear Choose the **CustomerBlog.exp** file you should download from [here (CustomerBlog.exp)](../resource/CustomerBlog.exp)
 
-<img src="images/210-1-4.png" width="25%"/>
+<img src="images/210-1-4.png" width="50%"/>
 
 5. Provide the **Name** (eg. CustomerBlog), Select Space (default: **My Space**) and click **Import**
 
-<img src="images/210-1-5.png" width="25%"/>
+<img src="images/210-1-5.png" width="50%"/>
 
 Once the import is completed you will see the following message
 
@@ -39,15 +39,15 @@ Once the import is completed you will see the following message
 
 6. Next we want to do is to deploy the imported process. Click on the **"CustomerBlog"** (or the name you've given) to open the CustomerBlog Process in the Process Composer shown in the next image.
 
-<img src="images/210-1-6.png" width="25%"/>
+<img src="images/210-1-6.png" width="50%"/>
 
 
 7. In the process composer, click on **Activate** icon. You will see the following message **"No version has been deployed"**. Now click on **"Deploy new Version"** button
 
-<img src="images/210-1-7.png" width="50%"/>
+<img src="images/210-1-7.png" width="100%"/>
 
-<img src="images/210-1-7a.png" width="50%"/>
-width
+<img src="images/210-1-7a.png" width="100%"/>
+
 
 8. Enter the User Credentials as shown in the picture below. 
 Select checkbox, **"Remenber Me"**, click ``OK``
@@ -79,20 +79,20 @@ Select checkbox, **"Remenber Me"**, click ``OK``
 
 You screen should look as followed.
 
-<img src="images/210-1-13a.png" width="50%"/>
+<img src="images/210-1-13a.png" width="100%"/>
 
 
 Click on "Close Application" top right corner of the Process Composer screen
 
 14. Next, we will configure the participants for the process application. In order to do this navigate to ``Configure`` on your Process Cloud home page.
 
-<img src="images/210-1-14.png" width="50%"/>
+<img src="images/210-1-14.png" width="100%"/>
 
 15 On the left menu navigate to ``Organization > Manage Roles``. You will see on the right hand side a list of roles. 
 
 16. Now find and select the role **CustomerBlog.Analytics Viewer** and click on ``Add Member``. 
 
-<img src="images/210-1-15.png" width="50%"/>
+<img src="images/210-1-15.png" width="100%"/>
 
 17. In the dialog screen find the user **bala.gupta** click search. You will see the user balagupta apear on the result screen, now select bala.gupta and click ``OK``. Bala Gupta should be added as one of the Members.
 
