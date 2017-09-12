@@ -18,7 +18,7 @@ In this lab we will look into how we can configure a process form into a Experie
 
 2. Click on **Develop Process**
 
-<img src="images/210-1-2.png" width="50%"/>
+<img src="images/210-1-2.png" width="25%"/>
 <img src="images/210-1-2a.png" width="100%"/>
 
 3. On the left menu click ``Create > Import > Import Application``
@@ -54,32 +54,32 @@ Select checkbox, **"Remenber Me"**, click ``OK``
 
 >Note: Use the password that has been assign to you.
 
-<img src="images/210-1-8.png" size="50%"/>
+<img src="images/210-1-8.png" width="50%"/>
 
 
 9. Select Version you want to deploy. Click on the dropdown and choose ``"Last Published Version"``. Click **Customize**.
 
-<img src="images/210-1-9.png" size="50%"/>
+<img src="images/210-1-9.png" width="50%"/>
 
 10. Keep the **Default** settings and click ``Validate``.
 
-<img src="images/210-1-10.png" size="50%"/>
+<img src="images/210-1-10.png" width="50%"/>
 
 11. You will be prompted **"Application successfully validated!"**. Click ``Options``.
 
-<img src="images/210-1-11.png" size="50%"/>
+<img src="images/210-1-11.png" width="50%"/>
 
 12. For **Revision id** enter ``1``, and click ``Deploy`` button.
 
-<img src="images/210-1-12.png" size="50%"/>
+<img src="images/210-1-12.png" width="50%"/>
 
 13. Now you have successfully deployed the Application. Click ``Finish`` button.
 
-<img src="images/210-1-13.png" size="50%"/>
+<img src="images/210-1-13.png" width="50%"/>
 
 You screen should look as followed.
 
-<img src="images/210-1-13a.png" size="50%"/>
+<img src="images/210-1-13a.png" width="50%"/>
 
 
 Click on "Close Application" top right corner of the Process Composer screen
