@@ -36,7 +36,7 @@ can work with Custom Properties, the manual also gets more specific and points o
 ### 3.	Environment ###
 
 CEC GSE Environment: 
-~~https://workshop-gse00009990.documents.us2.oraclecloud.com/documents~~
+(https://documents-gseXXXXXXXX.documents.us2.oraclecloud.com/documents)
 	You will be provided with username and pwd during the lab.
 
 ### 4.	Lab Resources ###
@@ -46,7 +46,7 @@ There are no pre-requisites for this lab.
 
 1. Open your preferred web browser and navigate to your Oracle CECS site 
 
-(https://yourinstancename.documents.yourdatacenter.oraclecloud.com/documents)
+(https://documents-gseXXXXXXXX.documents.us2.oraclecloud.com/documents)
 
 <img src="images/203-5-1.png" width="50%"/>
 

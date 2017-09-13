@@ -4,7 +4,7 @@
 
 ### 4.	Setting the workflow in CEC ###
 
-Open your preferred web browser and navigate to your Oracle CEC site (https://yourinstancename.documents.yourdatacenter.oraclecloud.com/documents)
+Open your preferred web browser and navigate to your Oracle CEC site (https://documents-gseXXXXXXXX.documents.us2.oraclecloud.com/documents)
  
 <img src="images/2.4.1.png" width="50%"/>
  

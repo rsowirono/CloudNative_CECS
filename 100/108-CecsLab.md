@@ -2,10 +2,8 @@
 
 ## Lab 1.8. Using Content Item in Sites ##
 
-### About this Lab ###
-
--- TBD --
 ---
+
 ### 1.8.1. Update the Content Layout Components ###
 
 You need to update the **Ad-Default** and **Ad-Highlight** components to use the content type you created in previous exercise, this is because the field id used in the content
