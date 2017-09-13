@@ -48,6 +48,6 @@ _Manage content from your enterprise applications, provide content services for 
   - ##### A: Content Metadata [(Start Lab)](200/203-CecsPCSLab.md) #####
   - ##### B: Document Workflow [(Start Lab)](200/201-CecsPCSLab.md) #####
   - ##### C: Working with Process Forms in Experience Cloud [(Start Lab)](200/210-CecsPCSLab.md) #####
-#### Lab 3: Omni-Channel Headless Content Delivery to Chatbot [(Start Lab)](300/301-CecsBOTLab.md) ####
+
 
 
