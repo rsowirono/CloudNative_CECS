@@ -44,10 +44,10 @@ _Manage content from your enterprise applications, provide content services for 
 # Lab Exercise: #
 
 #### Lab 1: Get started with Content and Experience [(Start Lab)](100/101-CecsLab.md) #### 
-#### Lab 2: Document Workflow in Content and Experience Cloud ####
+#### Lab 2: Working with Process Forms in Experience Cloud [(Start Lab)](200/210-CecsPCSLab.md) ####
+#### Extra Bonus: Document Workflow in Content and Experience Cloud ####
   - ##### A: Content Metadata [(Start Lab)](200/203-CecsPCSLab.md) #####
   - ##### B: Document Workflow [(Start Lab)](200/201-CecsPCSLab.md) #####
-  - ##### C: Working with Process Forms in Experience Cloud [(Start Lab)](200/210-CecsPCSLab.md) #####
 
 
 
