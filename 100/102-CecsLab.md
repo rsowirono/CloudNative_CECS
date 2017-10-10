@@ -12,5 +12,7 @@ You will be provided with the following resources for this lab:
 >**Note:** Click on the links to download the resources to your local machine.
 ---
 # Lab Exercise: #
-<< [Lab 1.1. Introduction](101-CecsLab.md) | [Lab 1.3. Upload Lab Resources to CEC](103-CecsLab.md) >>
+Next: [Lab 1.3. Upload Lab Resources to CEC](103-CecsLab.md) >>
+
+<< [Lab 1.1. Introduction](101-CecsLab.md)
  
