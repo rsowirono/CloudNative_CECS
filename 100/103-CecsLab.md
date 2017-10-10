@@ -31,4 +31,6 @@ You need to upload the resources to your CEC environment. You can upload resourc
 
 ---
 # Lab Exercise: #
-<< [Lab 1.2. Lab Resources](102-CecsLab.md) | [Lab 1.4. Import Template and Components](104-CecsLab.md) >>
+Next: [Lab 1.4. Import Template and Components](104-CecsLab.md) >>
+
+<< [Lab 1.2. Lab Resources](102-CecsLab.md)
