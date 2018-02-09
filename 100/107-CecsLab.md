@@ -1,13 +1,13 @@
 # ORACLE Cloud Test Drive #
 
-## Lab 1.7. Creating and Publishing Content Item ##
+## Lab 3. Creating and Publishing Content Item ##
 
 ### About this Lab ###
 In this exercise, you will learn how to create content item using the content type
 created in previous exercise.
 
 ---
-### 1.7.1. Create Content Item ###
+### 3.1. Create Content Item ###
 
 1. Navigate to ``Content -> Content Items``, and Click the ``Create Item`` button.
 
@@ -25,7 +25,7 @@ created in previous exercise.
 
 ![](../images/1.7.1.4.png)
 
-### 1.7.2. Publish Content Items ###
+### 3.2. Publish Content Items ###
 
 1. Navigate to ``Content -> Collections``, and click on the ``CafeSupremo Site Content`` collection.
 
@@ -38,4 +38,4 @@ created in previous exercise.
 ---
 # Lab Exercise: #
 
-<< [Lab 1.6: Creating Content Type](106-CecsLab.md) | [Lab 1.8: Using Content Item in Sites](108-CecsLab.md) >>
+<< [Lab 2: Creating Content Type](106-CecsLab.md) | [Lab 4: Using Content Item in Sites](108-CecsLab.md) >>
