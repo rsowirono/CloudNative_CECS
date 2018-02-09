@@ -1,6 +1,6 @@
 # ORACLE Cloud Test Drive #
 
-## Lab 1.6. Creating Content Type ##
+## Lab 2. Creating Content Type ##
 
 ### About this Lab ###
 
@@ -17,7 +17,7 @@ content types used in this exercise:
 >[How do I create content items?](https://docs.oracle.com/en/cloud/paas/content-cloud/user/how-do-i-create-content-items.html)
 
 ---
-### 1.6.1. Creating Content Type ###
+### 2.1. Creating Content Type ###
 
 1. Navigate to ``Content -> Content Items`` page, then click **“Manage Types”**.
 
@@ -114,7 +114,7 @@ enter button on your keyboard.
 |Text|TextColor|promo_textcolor |Single text box: `Single-select menu` Options: Light Dark|
 
 
-### 1.6.2. Change Content Item Layout ###
+### 2.2. Change Content Item Layout ###
 
 The Author, Blog and Promo content types were pre-created before you import
 the content layout component, you need to configure the content layout for
@@ -170,4 +170,4 @@ Item button**.
 ---
 # Lab Exercise: #
 
-<< [Lab 1.5: Creating a New Site](105-CecsLab.md) | [Lab 1.7: Creating and Publishing Content Item](107-CecsLab.md) >>
+<< [Lab 1: Creating a New Site](105-CecsLab.md) | [Lab 3: Creating and Publishing Content Item](107-CecsLab.md) >>
