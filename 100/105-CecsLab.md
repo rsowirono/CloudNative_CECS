@@ -1,6 +1,6 @@
 # ORACLE Cloud Test Drive #
 
-## Lab 1.5. Creating a New Site ##
+## Lab 1. Creating a New Site ##
 
 ### About this Lab ###
 In this exercise, you will create a CafeSupremo marketing site using the template and
@@ -12,7 +12,7 @@ component you just imported.
 
 >[What are content types, content items, and collections?](https://docs.oracle.com/en/cloud/paas/content-cloud/user/what-are-content-types-content-items-and-collections.html)
 ---
-### 1.5.1. Create a Site ###
+### 1.1. Create a Site ###
 
 1. Navigate to ``Experience -> Sites``, and click **“Create”**.
 
@@ -32,7 +32,7 @@ created.
 
 ![](../images/1.5.1.4.png)
 
-### 1.5.2. Adding Assets to Collection ###
+### 1.2. Adding Assets to Collection ###
 
 1. Navigate to ``Content -> Digital Assets``, click the **“Select All”** link, then click
 **“Add to Collection”** link.
@@ -52,7 +52,7 @@ click the **“Select All”** and **“Add to Collection”** link again to add
 
 <img src="../images/1.5.2.2b.png" width="50%" height="50%"/>
 
-### 1.5.3. Publish Digital Assets ###
+### 1.3. Publish Digital Assets ###
 
 1. Use the filter to select all assets in the **CafeSupremo Site Content**
 collection.
@@ -68,4 +68,4 @@ because the **“Select All”** can only select items on current page.
 ---
 # Lab Exercise: #
 
-<< [Lab 1.4: Import Template and Components](104-CecsLab.md) | [Lab 1.6: Creating Content Type](106-CecsLab.md) >>
+[Lab 1.2: Creating Content Type](106-CecsLab.md) >>
