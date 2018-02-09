@@ -1,10 +1,10 @@
 # ORACLE Cloud Test Drive #
 
-## Lab 1.8. Using Content Item in Sites ##
+## Lab 4. Using Content Item in Sites ##
 
 ---
 
-### 1.8.1. Update the Content Layout Components ###
+### 4.1. Update the Content Layout Components ###
 
 You need to update the **Ad-Default** and **Ad-Highlight** components to use the content type you created in previous exercise, this is because the field id used in the content
 layout component is different from the one you created.
@@ -52,7 +52,7 @@ Ad_Default content layout component. Change to Highlight layout to verify the Ad
 
 ![](../images/1.8.1.10.png)
 
-### 1.8.2. Add/Change Content Item ###
+### 4.2. Add/Change Content Item ###
 
 1. Navigate to ``Experience -> Sites``, then select the **“CafeSupremo”** site you’ve created, and click the **“Edit”** link.
 
@@ -87,7 +87,7 @@ Change the Content **List: Ad** to **Ad_2017**.
 
 ![](../images/1.8.2.8.png)
 
-### 1.8.3. Change the Content List Settings ###
+### 4.3. Change the Content List Settings ###
 
 1. Select the **Content list: Ad_2017** placeholder and open the **Settings**
 
@@ -125,4 +125,4 @@ blog item is displayed on the page.
 ---
 # Lab Exercise: #
 
-<< [Lab 1.7: Creating and Publishing Content Item](107-CecsLab.md) | [Back to CECS Cloud Test Drive Home](../README.md) >>
+<< [Lab 3: Creating and Publishing Content Item](107-CecsLab.md) | [Back to CECS Cloud Test Drive Home](../README.md) >>
